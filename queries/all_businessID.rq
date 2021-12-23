@@ -1,0 +1,19 @@
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yelp/sparql>
+    { 
+        SELECT * #?business_id ?r_business_id
+        WHERE {
+                {
+                    ?s a <https://myontology.com#business>;
+                    <https://myontology.com#business_id> ?business_id;
+                }
+
+        UNION {
+                ?r a <https://myontology.com#review>;
+                <https://myontology.com#business_id> ?business_id; .
+                }        
+        }
+    }
+}

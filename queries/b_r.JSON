@@ -1,0 +1,4216 @@
+{ "head": {
+    "vars": [ "s" , "business_id" , "r" , "r_business_id" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "s": { "type": "bnode" , "value": "b0" } ,
+        "business_id": { "type": "literal" , "value": "6iYb2HFDywm3zjuRg0shjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b1" } ,
+        "business_id": { "type": "literal" , "value": "tCbdrRPZA0oiIYSmHG3J0w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b2" } ,
+        "business_id": { "type": "literal" , "value": "bvN78flM8NLprQ1a1y5dRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b3" } ,
+        "business_id": { "type": "literal" , "value": "oaepsyvc0J17qwi8cfrOWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b4" } ,
+        "business_id": { "type": "literal" , "value": "PE9uqAjdw0E4-8mjGl3wVA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b5" } ,
+        "business_id": { "type": "literal" , "value": "D4JtQNTI4X3KcbzacDJsMw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b6" } ,
+        "business_id": { "type": "literal" , "value": "t35jsh9YnMtttm69UCp7gw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b7" } ,
+        "business_id": { "type": "literal" , "value": "jFYIsSb7r1QeESVUnXPHBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b8" } ,
+        "business_id": { "type": "literal" , "value": "N3_Gs3DnX4k9SgpwJxdEfw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b9" } ,
+        "business_id": { "type": "literal" , "value": "tXvdYGvlEceDljN8gt2_3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b10" } ,
+        "business_id": { "type": "literal" , "value": "rYs_1pNB_RMtn5WQh55QDA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b11" } ,
+        "business_id": { "type": "literal" , "value": "hCABMnKtwo4Y9alQDxh2kw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b12" } ,
+        "business_id": { "type": "literal" , "value": "HPA_qyMEddpAEtFof02ixg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b13" } ,
+        "business_id": { "type": "literal" , "value": "ufCxltuh56FF4-ZFZ6cVhg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b14" } ,
+        "business_id": { "type": "literal" , "value": "i_t_30RYVUDdZzFIcw80NQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b15" } ,
+        "business_id": { "type": "literal" , "value": "g7CEhqBIpwTg6ERcMkCmrQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b16" } ,
+        "business_id": { "type": "literal" , "value": "GfWJ19Js7wX9rwaHQ7KbGw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b17" } ,
+        "business_id": { "type": "literal" , "value": "MUeUyqhMja-nnmvgP4rBBg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b18" } ,
+        "business_id": { "type": "literal" , "value": "6fT0lYr_UgWSCZs_w1PBTQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b19" } ,
+        "business_id": { "type": "literal" , "value": "dmbbf3AqeG61_QHRZi1M1w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b20" } ,
+        "business_id": { "type": "literal" , "value": "DLbEQySMW3X7KvkybpEYkw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b21" } ,
+        "business_id": { "type": "literal" , "value": "AvT2mGkdYwU0ghqDfs-OlQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b22" } ,
+        "business_id": { "type": "literal" , "value": "ynTjh_FdhbG5hY69HsEoaA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b23" } ,
+        "business_id": { "type": "literal" , "value": "j68RDnvOaYEwGcY9cTEHpA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b24" } ,
+        "business_id": { "type": "literal" , "value": "nTIhpR7MhsALPwg_Hh14EA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b25" } ,
+        "business_id": { "type": "literal" , "value": "Y2ojrodkbEheGttZF8wYEQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b26" } ,
+        "business_id": { "type": "literal" , "value": "hcRxdDg7DYryCxCoI8ySQA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b27" } ,
+        "business_id": { "type": "literal" , "value": "8XyEpVdAO0o6iVkVxkWosQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b28" } ,
+        "business_id": { "type": "literal" , "value": "arEXRZYu8220bFBJ3VAh3A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b29" } ,
+        "business_id": { "type": "literal" , "value": "jGennaZUr2MsJyRhijNBfA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b30" } ,
+        "business_id": { "type": "literal" , "value": "XlLPnkHkm0Q7NLQrAJ6DRQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b31" } ,
+        "business_id": { "type": "literal" , "value": "_bZOUUc6Sr_W3BxbOUJacw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b32" } ,
+        "business_id": { "type": "literal" , "value": "uMGsjQGT35rX4AAt1Hp9og" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b33" } ,
+        "business_id": { "type": "literal" , "value": "QciD6FbNklaJvUbLExD4Nw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b34" } ,
+        "business_id": { "type": "literal" , "value": "vOMGjOSKtAKWWW-F_-tiAQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b35" } ,
+        "business_id": { "type": "literal" , "value": "iPD8BBvea6YldQZPHzVrSQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b36" } ,
+        "business_id": { "type": "literal" , "value": "jx91IMdGOmLOo8h_F9z39g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b37" } ,
+        "business_id": { "type": "literal" , "value": "NVfOn7TdnHbaGH97CVB_Qg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b38" } ,
+        "business_id": { "type": "literal" , "value": "Xw8tuI30T-xihpzwBV-zJg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b39" } ,
+        "business_id": { "type": "literal" , "value": "s8eTWEtW5WcnL2kUxrOVmw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b40" } ,
+        "business_id": { "type": "literal" , "value": "OmdMTKZe3j4oUkDrpru9VA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b41" } ,
+        "business_id": { "type": "literal" , "value": "NRPemqVb4qpWFF0Avq_6OQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b42" } ,
+        "business_id": { "type": "literal" , "value": "TRToVIbaVtu1KOE8DR9gCw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b43" } ,
+        "business_id": { "type": "literal" , "value": "Yyym58vWvlRPuMCOICWRBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b44" } ,
+        "business_id": { "type": "literal" , "value": "BFd5KnVmxkFH3WjbydJI3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b45" } ,
+        "business_id": { "type": "literal" , "value": "J0qv-BVQKQwImRZQ1_ZKdQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b46" } ,
+        "business_id": { "type": "literal" , "value": "D2VwAQBBxfm_l9rYesXaxQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b47" } ,
+        "business_id": { "type": "literal" , "value": "Xi2GGNzOiUS8r6WCFvu-fw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b48" } ,
+        "business_id": { "type": "literal" , "value": "0b9OJG4DWUqhdLotm_La7Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b49" } ,
+        "business_id": { "type": "literal" , "value": "1bT6-v29xAoA0ELXF1Ncjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b50" } ,
+        "business_id": { "type": "literal" , "value": "5PsApTz-WqhF_-8mfqGtGw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b51" } ,
+        "business_id": { "type": "literal" , "value": "w4qVflIAbdklzG3mnKmQsg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b52" } ,
+        "business_id": { "type": "literal" , "value": "Of6xu3pY3eHe2yhiyz2dvg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b53" } ,
+        "business_id": { "type": "literal" , "value": "djolOChjDtxniurUFP_SXA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b54" } ,
+        "business_id": { "type": "literal" , "value": "Z2JC3Yrz82kyS86zEVJG5A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b55" } ,
+        "business_id": { "type": "literal" , "value": "TY5PqlMGI1ByMTY6itVHYQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b56" } ,
+        "business_id": { "type": "literal" , "value": "XymxusqpIsZFmN_QNQW_fw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b57" } ,
+        "business_id": { "type": "literal" , "value": "2-p3yffS70GvqJurMP_pgQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b58" } ,
+        "business_id": { "type": "literal" , "value": "CPmMlFgxNtyIZaITHA5SrQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b59" } ,
+        "business_id": { "type": "literal" , "value": "s7DzD9VDhb7pjmQegc7TWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b60" } ,
+        "business_id": { "type": "literal" , "value": "Nhw7on5kevbomM-GzRXy_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b61" } ,
+        "business_id": { "type": "literal" , "value": "bRsDZ44CD3uhGnRY3NeQhQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b62" } ,
+        "business_id": { "type": "literal" , "value": "z8-_6l5EhX5NuPfWzJYQMA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b63" } ,
+        "business_id": { "type": "literal" , "value": "qbZJh9lR0gh4Wca96NQv9g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b64" } ,
+        "business_id": { "type": "literal" , "value": "sSX4BXohwSfMJVhHn4nh2w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b65" } ,
+        "business_id": { "type": "literal" , "value": "z-0oY7VxQMQw3JHvdPejrA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b66" } ,
+        "business_id": { "type": "literal" , "value": "6MEqn13ZdrP6Icc2p2qb2g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b67" } ,
+        "business_id": { "type": "literal" , "value": "buTr0hMiyDbjQvFJgm-Eew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b68" } ,
+        "business_id": { "type": "literal" , "value": "G6xF2EGY-F04iFhq5sX8MQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b69" } ,
+        "business_id": { "type": "literal" , "value": "QkLMGBIP5Pp040l0Y9L0iA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b70" } ,
+        "business_id": { "type": "literal" , "value": "8iXIaO3OYdnOHkxabiqdiQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b71" } ,
+        "business_id": { "type": "literal" , "value": "Xg12RikHzyFCgFBApWtcdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b72" } ,
+        "business_id": { "type": "literal" , "value": "XmIPAzrfadxpEHbLi8QxRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b73" } ,
+        "business_id": { "type": "literal" , "value": "iX6_gILIkLUpO1r1BzwfvA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b74" } ,
+        "business_id": { "type": "literal" , "value": "Mf9io8WkMyGautXuSSfGTg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b75" } ,
+        "business_id": { "type": "literal" , "value": "3ME_CSB1bo4F0QMhQRUeOA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b76" } ,
+        "business_id": { "type": "literal" , "value": "MEC2RzMZwPxzz_9rr0Cpog" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b77" } ,
+        "business_id": { "type": "literal" , "value": "m25WChNiebDi-uLgEPPpug" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b78" } ,
+        "business_id": { "type": "literal" , "value": "O14glSxcoa0_jCmlPLfuCg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b79" } ,
+        "business_id": { "type": "literal" , "value": "gjMCRTs0IZbw9bZLG837Bg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b80" } ,
+        "business_id": { "type": "literal" , "value": "Q-pFmFZ54AOgCwwi9kwzWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b81" } ,
+        "business_id": { "type": "literal" , "value": "Z4UNrp2VpqiEuc39eDsjdg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b82" } ,
+        "business_id": { "type": "literal" , "value": "zml5p2_hrHNDumKqsWGvfA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b83" } ,
+        "business_id": { "type": "literal" , "value": "oT8WhLz_LP-2GPZa4vPzjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b84" } ,
+        "business_id": { "type": "literal" , "value": "5xEfYJ3neT2flz7oU3ch4g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b85" } ,
+        "business_id": { "type": "literal" , "value": "xqBjjE3lsBWCEj1CulMGSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b86" } ,
+        "business_id": { "type": "literal" , "value": "Q2vefh0tGhtCGQDK1FI7cw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b87" } ,
+        "business_id": { "type": "literal" , "value": "DlGncLuo1YYdNiwHX2Z0OA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b88" } ,
+        "business_id": { "type": "literal" , "value": "EGZ0fhB9k0ZlI5sHda4vFw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b89" } ,
+        "business_id": { "type": "literal" , "value": "WuoNSCjFBH4OQTSNGc4l6w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b90" } ,
+        "business_id": { "type": "literal" , "value": "EXo2OLA-gBqKtCa9hdDBkQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b91" } ,
+        "business_id": { "type": "literal" , "value": "Npm0cjoyWwyV13OULL9qOA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b92" } ,
+        "business_id": { "type": "literal" , "value": "jI0NfabCGtRZWH5S0jl6Pw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b93" } ,
+        "business_id": { "type": "literal" , "value": "HMXiuCxHDXqMH1hBpaHd9g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b94" } ,
+        "business_id": { "type": "literal" , "value": "ZA3u0Nu5V6TqkcYh8U0zdg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b95" } ,
+        "business_id": { "type": "literal" , "value": "KUGRFwI1V_X8nd5Z7g66eg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b96" } ,
+        "business_id": { "type": "literal" , "value": "xlKLfEm9j1q6wWhO26iH6g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b97" } ,
+        "business_id": { "type": "literal" , "value": "gmLYiyg_hW_DVQWEPgfRQA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b98" } ,
+        "business_id": { "type": "literal" , "value": "FkS4OmTBeNHPK3sV4PBcIw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b99" } ,
+        "business_id": { "type": "literal" , "value": "mBE0BkG-zTm-WCUVChIRCA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b100" } ,
+        "business_id": { "type": "literal" , "value": "CBkF_Ub_nxOhOEN3Zbo_RQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b101" } ,
+        "business_id": { "type": "literal" , "value": "bS5DScsLQSFDcbGnPD2GbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b102" } ,
+        "business_id": { "type": "literal" , "value": "dVEMvNsqCHHGBkW0XAkFKg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b103" } ,
+        "business_id": { "type": "literal" , "value": "AzAT-AWII5PJVPIGB37tGQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b104" } ,
+        "business_id": { "type": "literal" , "value": "aTAe3uMYBEwU0FbTMFEI5g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b105" } ,
+        "business_id": { "type": "literal" , "value": "TbZDLpBOl-EbO2LfMySrEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b106" } ,
+        "business_id": { "type": "literal" , "value": "52f_ztOVodIoV43Qt-R4rA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b107" } ,
+        "business_id": { "type": "literal" , "value": "8RWSB1i2nAC8IToBLdr3TA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b108" } ,
+        "business_id": { "type": "literal" , "value": "qTdz29Nf3zoALiDDEKfWlw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b109" } ,
+        "business_id": { "type": "literal" , "value": "zcSOyUPQopa6f8MU_cdNGA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b110" } ,
+        "business_id": { "type": "literal" , "value": "xF3Fjf89nwYas8WElCGDEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b111" } ,
+        "business_id": { "type": "literal" , "value": "jyb-bKcBJUVlB8LABv3X9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b112" } ,
+        "business_id": { "type": "literal" , "value": "NoPXKdIwRzflOW-5exFAqA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b113" } ,
+        "business_id": { "type": "literal" , "value": "XDv29FffNd2dWnDOtZP-wg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b114" } ,
+        "business_id": { "type": "literal" , "value": "qH6Elr-dW5FgDzu0eWXRIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b115" } ,
+        "business_id": { "type": "literal" , "value": "9VPjqOGkV2ARMr_wIGoCOg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b116" } ,
+        "business_id": { "type": "literal" , "value": "JhkJCPHrJ1waumjZmEOQWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b117" } ,
+        "business_id": { "type": "literal" , "value": "CtKjULH4WuxgB-mtFgBuBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b118" } ,
+        "business_id": { "type": "literal" , "value": "jpUJ8_gnWRLKxDCzDhmEgQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b119" } ,
+        "business_id": { "type": "literal" , "value": "3_RuVmLNa-1GNHOMvl_bsg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b120" } ,
+        "business_id": { "type": "literal" , "value": "HQr0FKztndabrhxMw1bYqQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b121" } ,
+        "business_id": { "type": "literal" , "value": "gUws1XL1ktLNG1X0a7Turw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b122" } ,
+        "business_id": { "type": "literal" , "value": "7f4z43MHAV-l-LsRYsasAg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b123" } ,
+        "business_id": { "type": "literal" , "value": "Gr4-knYkEFGhDehOkaXgxQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b124" } ,
+        "business_id": { "type": "literal" , "value": "ZWhzrcikNsX7-AXqm99U8g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b125" } ,
+        "business_id": { "type": "literal" , "value": "0GMFteLQFzUogXFK9STGtA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b126" } ,
+        "business_id": { "type": "literal" , "value": "BGLqNLxH8p3dEoiLVLRq1A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b127" } ,
+        "business_id": { "type": "literal" , "value": "ouEk8za4bdmPnLyh0f1ugg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b128" } ,
+        "business_id": { "type": "literal" , "value": "ipsTYb3c_OcuzmZZyhWh3w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b129" } ,
+        "business_id": { "type": "literal" , "value": "voim57uVEODiIADpDZ_Eng" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b130" } ,
+        "business_id": { "type": "literal" , "value": "t2xsi7qIN0iwGiOyCn7k8Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b131" } ,
+        "business_id": { "type": "literal" , "value": "jfDfHzAq6iKkRnzzZ4n1nQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b132" } ,
+        "business_id": { "type": "literal" , "value": "5eq56X-e9YbAKmHgUOyXSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b133" } ,
+        "business_id": { "type": "literal" , "value": "mHryNAZtrclEGwnBNfQWNQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b134" } ,
+        "business_id": { "type": "literal" , "value": "_p53vrNvW47kNZvRzTQL8A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b135" } ,
+        "business_id": { "type": "literal" , "value": "9C2lhZ4qRH5H2zMjmto1ng" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b136" } ,
+        "business_id": { "type": "literal" , "value": "xJvsYeY9u5RLLZpXJqJEgw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b137" } ,
+        "business_id": { "type": "literal" , "value": "t-jwGEBsMYlQYxiiqImpIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b138" } ,
+        "business_id": { "type": "literal" , "value": "JeU01XydOJZBWAnlqHwP7w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b139" } ,
+        "business_id": { "type": "literal" , "value": "qZH9fTs1a7dOXrM7dZjKwQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b140" } ,
+        "business_id": { "type": "literal" , "value": "wNR3CP5cbR--7MU0DkwBtw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b141" } ,
+        "business_id": { "type": "literal" , "value": "L-Stk9lkVfPSFQlrFukCwA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b142" } ,
+        "business_id": { "type": "literal" , "value": "m--WeFBAQaz5rHmJ-aRlkQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b143" } ,
+        "business_id": { "type": "literal" , "value": "OfA_4cHgvlknHMcn0qNs2w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b144" } ,
+        "business_id": { "type": "literal" , "value": "Fl_7YDOMt58rTNHa7p2G4w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b145" } ,
+        "business_id": { "type": "literal" , "value": "mIKAfMNVtidlERuQmclWNg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b146" } ,
+        "business_id": { "type": "literal" , "value": "YMVKMhC2b2YB7GmKP7M52w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b147" } ,
+        "business_id": { "type": "literal" , "value": "bP6goJODwRnM3AVy45Kn9w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b148" } ,
+        "business_id": { "type": "literal" , "value": "0Q7svPlpg8YOy_mzsr6vww" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b149" } ,
+        "business_id": { "type": "literal" , "value": "vecuat0jOia-CJveW3ngDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b150" } ,
+        "business_id": { "type": "literal" , "value": "vZNOofwzGjVMSlBKRo1QCA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b151" } ,
+        "business_id": { "type": "literal" , "value": "fQQMzZs2oF3mIse1rAYhVA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b152" } ,
+        "business_id": { "type": "literal" , "value": "n4dg97jn6hYFLgFq_Mlkqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b153" } ,
+        "business_id": { "type": "literal" , "value": "ushDMTS4Vk3oWDcARk_FNw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b154" } ,
+        "business_id": { "type": "literal" , "value": "zHMsnpMPanzRx-A6AwGSdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b155" } ,
+        "business_id": { "type": "literal" , "value": "yCeENvVAGQQ0PeeWU0Pl2g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b156" } ,
+        "business_id": { "type": "literal" , "value": "G1KjtSHx7L-a_G-TQWEnoA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b157" } ,
+        "business_id": { "type": "literal" , "value": "vhkMPYcKXznnHNkSWfF4kQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b158" } ,
+        "business_id": { "type": "literal" , "value": "_8Hejg5Q-_izIhLvq2ocnw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b159" } ,
+        "business_id": { "type": "literal" , "value": "94BJ2Gkabruz5P8fBC8yfg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b160" } ,
+        "business_id": { "type": "literal" , "value": "U61wCfYCVN_8Qjz30KZdCw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b161" } ,
+        "business_id": { "type": "literal" , "value": "_JvQQ-2t7e2tXDZUfLsTtA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b162" } ,
+        "business_id": { "type": "literal" , "value": "fK28jGpA-lncU8zvQ71RVQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b163" } ,
+        "business_id": { "type": "literal" , "value": "0TXro5LzKPVsWcIqePSLOA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b164" } ,
+        "business_id": { "type": "literal" , "value": "pewcbd-NCgj1LXJNifFA4g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b165" } ,
+        "business_id": { "type": "literal" , "value": "xSLdQjPgMhBrNIEtUgdWUA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b166" } ,
+        "business_id": { "type": "literal" , "value": "vs5DsI27LqC2edekZGSO9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b167" } ,
+        "business_id": { "type": "literal" , "value": "RBWMa8Fi8oh4rZduVzlrlA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b168" } ,
+        "business_id": { "type": "literal" , "value": "mkSHe6lUj-3ER5GTWTtIdA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b169" } ,
+        "business_id": { "type": "literal" , "value": "dw7luYog-E4WZ0DzKUxZ_g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b170" } ,
+        "business_id": { "type": "literal" , "value": "pRfU4NPmIbyNhCJh3I-EaA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b171" } ,
+        "business_id": { "type": "literal" , "value": "69CVhHiggPJeGnghi4TkEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b172" } ,
+        "business_id": { "type": "literal" , "value": "fjEg_jdyaXI2zdTlltXDoA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b173" } ,
+        "business_id": { "type": "literal" , "value": "eKQ_i0799txPXIL8fU0xEQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b174" } ,
+        "business_id": { "type": "literal" , "value": "-t07XlNaUn3NdyB9LMkjFA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b175" } ,
+        "business_id": { "type": "literal" , "value": "qXf2305Fdy7V8EV2h3BjGQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b176" } ,
+        "business_id": { "type": "literal" , "value": "LdMKl3Pr4brsxWUMSvpzdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b177" } ,
+        "business_id": { "type": "literal" , "value": "V-L5G5WsOeX5dfwF6C0fqQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b178" } ,
+        "business_id": { "type": "literal" , "value": "5FMNqsu4O_XPzy3395ogXg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b179" } ,
+        "business_id": { "type": "literal" , "value": "dW_vxvERiGFIlx4IFMyf-g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b180" } ,
+        "business_id": { "type": "literal" , "value": "FfMD15rgA4gHG9beoEkZ8Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b181" } ,
+        "business_id": { "type": "literal" , "value": "e-uSjQP0abPwWSVHaHN_fg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b182" } ,
+        "business_id": { "type": "literal" , "value": "zY12NvWB5QKNuLh9tbLEsA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b183" } ,
+        "business_id": { "type": "literal" , "value": "D5x_gVSaWRr_TarjloJcGg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b184" } ,
+        "business_id": { "type": "literal" , "value": "rlSnBQ3N5q6tWLS24nK59g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b185" } ,
+        "business_id": { "type": "literal" , "value": "Wn00wa3ZUYIopTzGruWtCw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b186" } ,
+        "business_id": { "type": "literal" , "value": "9Q_jQiJdv5I_cevEaHsHqA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b187" } ,
+        "business_id": { "type": "literal" , "value": "fDJm1OQWJg6XyuVTcxoemg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b188" } ,
+        "business_id": { "type": "literal" , "value": "syEVZu0zPcIigtby0H_x9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b189" } ,
+        "business_id": { "type": "literal" , "value": "tm5RUueZr0ss56M1RJTjlQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b190" } ,
+        "business_id": { "type": "literal" , "value": "r_sOAVfNPaXrpjznZpuxeg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b191" } ,
+        "business_id": { "type": "literal" , "value": "-0AVYSnp6IZtsm6QFeGIdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b192" } ,
+        "business_id": { "type": "literal" , "value": "sLQ__kSK1CNp5YTeM1Xlkg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b193" } ,
+        "business_id": { "type": "literal" , "value": "opdd6sSWjwiy-doXnlpMeA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b194" } ,
+        "business_id": { "type": "literal" , "value": "bSzm_IIP0Is0H6QP7yUgJQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b195" } ,
+        "business_id": { "type": "literal" , "value": "zYMjNc-Q7-T238SHylKgKA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b196" } ,
+        "business_id": { "type": "literal" , "value": "YiwC9uu9RUKqCaeTueNW7w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b197" } ,
+        "business_id": { "type": "literal" , "value": "EJ58GOWZplYJkj4TkDuSXw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b198" } ,
+        "business_id": { "type": "literal" , "value": "c7SpDCrvkoFWOsMQH1gmkQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b199" } ,
+        "business_id": { "type": "literal" , "value": "Pk4ZwXwUU50BDn5gqw_rKg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b200" } ,
+        "business_id": { "type": "literal" , "value": "UKIBQrRbY_jo52yHWcZE8g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b201" } ,
+        "business_id": { "type": "literal" , "value": "zvOYWKm4P6avcTivXIf4Zg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b202" } ,
+        "business_id": { "type": "literal" , "value": "qiWI8DwBeD9tVJY12V2T4A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b203" } ,
+        "business_id": { "type": "literal" , "value": "_DyBDaC2ltGxhJJ9PsWS7Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b204" } ,
+        "business_id": { "type": "literal" , "value": "EkUH92ZS0vaVwUJFEPGhfw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b205" } ,
+        "business_id": { "type": "literal" , "value": "V0rGM46G0x2cy9RfUt1qPQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b206" } ,
+        "business_id": { "type": "literal" , "value": "Hwat46y25xn1WZHF0L8D6A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b207" } ,
+        "business_id": { "type": "literal" , "value": "diB_y_0tPzz-OAe5xgFXtw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b208" } ,
+        "business_id": { "type": "literal" , "value": "3ECKiRRR-I2YJXwtLI1g0Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b209" } ,
+        "business_id": { "type": "literal" , "value": "HVpIq8w2SMZK9MQT9u3yng" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b210" } ,
+        "business_id": { "type": "literal" , "value": "QumDXltJNac_8vMbquQnPw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b211" } ,
+        "business_id": { "type": "literal" , "value": "A40p61gnz_7orVAr9YYHPg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b212" } ,
+        "business_id": { "type": "literal" , "value": "2KtXDgxuiC4Xx3Cn6zn5_Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b213" } ,
+        "business_id": { "type": "literal" , "value": "7BYna5rvlqxgzV4Yxhzpew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b214" } ,
+        "business_id": { "type": "literal" , "value": "p9_tl3SckaGUjToGCz2frA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b215" } ,
+        "business_id": { "type": "literal" , "value": "qaLqljVwdG4h0fqTKHJ4TQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b216" } ,
+        "business_id": { "type": "literal" , "value": "v7w5h6JMrhumvoJA8n5VZQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b217" } ,
+        "business_id": { "type": "literal" , "value": "RprHV88rD26v53TaTSVqgg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b218" } ,
+        "business_id": { "type": "literal" , "value": "ZaMMUcOIngBCgxuKxFzfqg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b219" } ,
+        "business_id": { "type": "literal" , "value": "x4R9azcmAF9T0-iJjVD3xg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b220" } ,
+        "business_id": { "type": "literal" , "value": "y030N-DD6G7lfWHO4A6ezw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b221" } ,
+        "business_id": { "type": "literal" , "value": "fD9EopsUWvimsi4eaS7uMA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b222" } ,
+        "business_id": { "type": "literal" , "value": "fyE5YY52BuPH9NUyvaTpSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b223" } ,
+        "business_id": { "type": "literal" , "value": "1-UieVZg_JBMq92xhF633A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b224" } ,
+        "business_id": { "type": "literal" , "value": "9UbSRTD_Ly2AlJ1hjEt4TA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b225" } ,
+        "business_id": { "type": "literal" , "value": "So4sUPedGUcyEMRAmDRgDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b226" } ,
+        "business_id": { "type": "literal" , "value": "_Z9-V7ezxypc3yNOHEuA-Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b227" } ,
+        "business_id": { "type": "literal" , "value": "xv8hs0judSWlavMhSnkMpw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b228" } ,
+        "business_id": { "type": "literal" , "value": "SHHxhkzbKBKvv2Mqe2Ylrw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b229" } ,
+        "business_id": { "type": "literal" , "value": "lYlJnN8m_pgn8U1r_BFrZA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b230" } ,
+        "business_id": { "type": "literal" , "value": "9v5PimfwxVg24lZb4rX7lQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b231" } ,
+        "business_id": { "type": "literal" , "value": "TGuQRvKHzr8lRXVCNOIkVA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b232" } ,
+        "business_id": { "type": "literal" , "value": "N6usNa3_rcYOb8NQ7-Wq3A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b233" } ,
+        "business_id": { "type": "literal" , "value": "GX-tl3rRwV7iNEuX39-PUA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b234" } ,
+        "business_id": { "type": "literal" , "value": "FdoplWp-0XqzRUkyNYruSQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b235" } ,
+        "business_id": { "type": "literal" , "value": "7At-2aosTzh6pJcQyMrubA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b236" } ,
+        "business_id": { "type": "literal" , "value": "FRB3u9Y2boOGDjyQQo7UgA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b237" } ,
+        "business_id": { "type": "literal" , "value": "INRbuzhBV5b07-Hd2wp8CA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b238" } ,
+        "business_id": { "type": "literal" , "value": "qxnHt71f5BHVmzWKDTRCyA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b239" } ,
+        "business_id": { "type": "literal" , "value": "76nVJTAWggnJu7FfTRU1UQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b240" } ,
+        "business_id": { "type": "literal" , "value": "3DFvutUSvHebYJ0Lb1oW6g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b241" } ,
+        "business_id": { "type": "literal" , "value": "j4kjeLmlcMKG9fsqr5vjMQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b242" } ,
+        "business_id": { "type": "literal" , "value": "m_a0-8_wR1ypvZzDGeSIgA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b243" } ,
+        "business_id": { "type": "literal" , "value": "_EbOP_aB6yVh9ORw6nvnRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b244" } ,
+        "business_id": { "type": "literal" , "value": "bv-c1TCizcUiPz2iI02r3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b245" } ,
+        "business_id": { "type": "literal" , "value": "byh1TRP4H3vqHRCJayjszA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b246" } ,
+        "business_id": { "type": "literal" , "value": "nyQlAZJwQX052OG5jes2CQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b247" } ,
+        "business_id": { "type": "literal" , "value": "7IPhANX229XHo6I5w_BzxA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b248" } ,
+        "business_id": { "type": "literal" , "value": "iDcT8noFyv1sEVzzEWq1ow" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b249" } ,
+        "business_id": { "type": "literal" , "value": "OojxG51Ha1DiiQYxKoI6RA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b250" } ,
+        "business_id": { "type": "literal" , "value": "yoOkXGIafzbIZHwq6gJkgQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b251" } ,
+        "business_id": { "type": "literal" , "value": "7ee6XyKyeduI-Rbc6L5j2Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b252" } ,
+        "business_id": { "type": "literal" , "value": "GyglPdfJM89if_5XSBIN7Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b253" } ,
+        "business_id": { "type": "literal" , "value": "Ieelu69Y23nbjKG3OGfwnw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b254" } ,
+        "business_id": { "type": "literal" , "value": "_74hVYou5lG0sCjc4gsKDg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b255" } ,
+        "business_id": { "type": "literal" , "value": "rBQ5KTSm3-Ucq7wDFOm7pA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b256" } ,
+        "business_id": { "type": "literal" , "value": "r-hWf-bd9im5rj_l2MeofQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b257" } ,
+        "business_id": { "type": "literal" , "value": "Y9L4i-68a5Hl0mQJXKgC2Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b258" } ,
+        "business_id": { "type": "literal" , "value": "IFB2K3BEZ2L_Mv5AbUD26Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b259" } ,
+        "business_id": { "type": "literal" , "value": "uQYELxStzqFPlzVtufuekw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b260" } ,
+        "business_id": { "type": "literal" , "value": "ggJvUpdNJdiUPNW83boV2g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b261" } ,
+        "business_id": { "type": "literal" , "value": "tvy08s_lvOqTHlgibylB4w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b262" } ,
+        "business_id": { "type": "literal" , "value": "KJBiD2TiptcncaH8RkKo6A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b263" } ,
+        "business_id": { "type": "literal" , "value": "lOrIttJhPbvIrZsO4rxyzQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b264" } ,
+        "business_id": { "type": "literal" , "value": "_i64BkKLkm9qNn7WBQsMmQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b265" } ,
+        "business_id": { "type": "literal" , "value": "RYTazB6j1J3WbGOeK8onGQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b266" } ,
+        "business_id": { "type": "literal" , "value": "_WTQPEX3oNVT8cSz9UKsFQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b267" } ,
+        "business_id": { "type": "literal" , "value": "fBvQQUk1-V9IUA8PbuYFWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b268" } ,
+        "business_id": { "type": "literal" , "value": "HunvZ5dE3-_kx-lcGBuweg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b269" } ,
+        "business_id": { "type": "literal" , "value": "4f1MpunVzcEZ2v4HNQa2uw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b270" } ,
+        "business_id": { "type": "literal" , "value": "xH0jFsCsdC5qIRCPK2rQQw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b271" } ,
+        "business_id": { "type": "literal" , "value": "ZmWg2G1pKlUDV9VkxdNY9A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b272" } ,
+        "business_id": { "type": "literal" , "value": "78jsDlz-HCFrsXqOxi5ybA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b273" } ,
+        "business_id": { "type": "literal" , "value": "xFT6TG7V6w9M8jd4h8mvTA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b274" } ,
+        "business_id": { "type": "literal" , "value": "k435gqoMV8HZTAqc1TaEpg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b275" } ,
+        "business_id": { "type": "literal" , "value": "J4BjYHtwdY6i0_DaLgdWmg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b276" } ,
+        "business_id": { "type": "literal" , "value": "bBNCUzEJZn8ASQ5LNWOHEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b277" } ,
+        "business_id": { "type": "literal" , "value": "LjQ_z_eYTvbPkdnxD_Ucrw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b278" } ,
+        "business_id": { "type": "literal" , "value": "FBFk8bV5pT7etlOjqFp70A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b279" } ,
+        "business_id": { "type": "literal" , "value": "9Bt9MMtmjPB6IykEMrFB7A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b280" } ,
+        "business_id": { "type": "literal" , "value": "C1Jkjsqoz1AsYJy28IosQg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b281" } ,
+        "business_id": { "type": "literal" , "value": "LDVnIEG0bGHhBt__DPQvyQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b282" } ,
+        "business_id": { "type": "literal" , "value": "NcFYw0jBKldrNXkhEzJnSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b283" } ,
+        "business_id": { "type": "literal" , "value": "LfNP5_Pi1w9nXDnoBZ2siw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b284" } ,
+        "business_id": { "type": "literal" , "value": "EXeV_qzezFDr2eU3Dk4nqA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b285" } ,
+        "business_id": { "type": "literal" , "value": "7xOOgAzl-G2-X4WvG6DrMg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b286" } ,
+        "business_id": { "type": "literal" , "value": "VwJ_TK-HZcW_G-K70KpUlQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b287" } ,
+        "business_id": { "type": "literal" , "value": "RCu6rMEuzYobGOSVws40fQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b288" } ,
+        "business_id": { "type": "literal" , "value": "f8V8ZAkASQCieNft2miQIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b289" } ,
+        "business_id": { "type": "literal" , "value": "GH3D02sDvOT4A9JxgL0sxg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b290" } ,
+        "business_id": { "type": "literal" , "value": "lyhNDfX8UatlRO5H3Kfccg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b291" } ,
+        "business_id": { "type": "literal" , "value": "A_BMUsg_EAwh-_XRFEUfDA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b292" } ,
+        "business_id": { "type": "literal" , "value": "LniaQ-j3OG_qzaNSrewsbg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b293" } ,
+        "business_id": { "type": "literal" , "value": "ZQe-QTcGpo8IAV0NHHpdhA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b294" } ,
+        "business_id": { "type": "literal" , "value": "aUo7uI2kEMzG4D8HSNzlVg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b295" } ,
+        "business_id": { "type": "literal" , "value": "FJ-r3hOMbcq0p7Z5yH9oew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b296" } ,
+        "business_id": { "type": "literal" , "value": "AswfIMfS_1eLHQt_m0Poog" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b297" } ,
+        "business_id": { "type": "literal" , "value": "p5dm2fCBQ0_hysaWtXxCqQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b298" } ,
+        "business_id": { "type": "literal" , "value": "wz2x3OLSuvpmzyfjdtGwWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b299" } ,
+        "business_id": { "type": "literal" , "value": "LHPzReyrFStB08KwMcyP2w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b300" } ,
+        "business_id": { "type": "literal" , "value": "yHY9b4CiCe6dtx7K--_JRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b301" } ,
+        "business_id": { "type": "literal" , "value": "GXNYOB1xIu68_fF-8h1srg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b302" } ,
+        "business_id": { "type": "literal" , "value": "soRbtvgWVNqCk2YeMhYrlw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b303" } ,
+        "business_id": { "type": "literal" , "value": "Dq0NeuyWBLNsGyLk4qsFag" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b304" } ,
+        "business_id": { "type": "literal" , "value": "4KJ8eQ4VJuOfuXuoWRj6Nw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b305" } ,
+        "business_id": { "type": "literal" , "value": "az0DEo7NfL1Y8IKxLD1L_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b306" } ,
+        "business_id": { "type": "literal" , "value": "m8vCZxHC2a7OSUdaqBO4vQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b307" } ,
+        "business_id": { "type": "literal" , "value": "IAxXfqa5dZ89oWLhiNpwhA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b308" } ,
+        "business_id": { "type": "literal" , "value": "AaNj_9KNy9t1H1cu1NCNLQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b309" } ,
+        "business_id": { "type": "literal" , "value": "EMHdIrJ1J8u78HfKOkTEXQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b310" } ,
+        "business_id": { "type": "literal" , "value": "Xz6aqENKlT4FU-ZBvrf_ow" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b311" } ,
+        "business_id": { "type": "literal" , "value": "Ld88I1LFRlxnFlQVIoHAJw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b312" } ,
+        "business_id": { "type": "literal" , "value": "6Y0lQh4O-9JCutgyuMNq0g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b313" } ,
+        "business_id": { "type": "literal" , "value": "PZ9MNSdve4iiG87D2lh_Ow" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b314" } ,
+        "business_id": { "type": "literal" , "value": "RZAKup8sEHYXwfyXLB1J0w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b315" } ,
+        "business_id": { "type": "literal" , "value": "tYhcRgwiabSSUz2RoP5z9A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b316" } ,
+        "business_id": { "type": "literal" , "value": "Lye66-VKsO-npfyo3o7qeg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b317" } ,
+        "business_id": { "type": "literal" , "value": "F_q_c_XhuuKMlqvsdZffvA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b318" } ,
+        "business_id": { "type": "literal" , "value": "LN1KLqHfhhR76FAZlRGTbw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b319" } ,
+        "business_id": { "type": "literal" , "value": "BRSTpCa67ES2qRr9-y-9PQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b320" } ,
+        "business_id": { "type": "literal" , "value": "upY1H63uocaOJm_cBD81ww" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b321" } ,
+        "business_id": { "type": "literal" , "value": "nprxRXqM8zhOsd61XULrkg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b322" } ,
+        "business_id": { "type": "literal" , "value": "EnOk25EuXZmzzZtU1DsBag" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b323" } ,
+        "business_id": { "type": "literal" , "value": "SI0R_Fw7kFc_2bO_SX2rqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b324" } ,
+        "business_id": { "type": "literal" , "value": "UzSEMvN9r3RRNbUTntfZ-A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b325" } ,
+        "business_id": { "type": "literal" , "value": "DgJSDdnPOvLCCyuryIh-3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b326" } ,
+        "business_id": { "type": "literal" , "value": "IsZlYStenyJypDkCeXt9JQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b327" } ,
+        "business_id": { "type": "literal" , "value": "Vq0TBQdyxOlH39RHRDeB6A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b328" } ,
+        "business_id": { "type": "literal" , "value": "0fTzCoxF2X-sj1GwrdFpeg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b329" } ,
+        "business_id": { "type": "literal" , "value": "XSuCJDirsilylOQJ5bjmzg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b330" } ,
+        "business_id": { "type": "literal" , "value": "2mEsVP9EFwVhszAIIMxPlQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b331" } ,
+        "business_id": { "type": "literal" , "value": "UbP_JuB-zHHfLz2dvKe9yw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b332" } ,
+        "business_id": { "type": "literal" , "value": "FPPUKkUiZ63j7u-HjpD0yg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b333" } ,
+        "business_id": { "type": "literal" , "value": "0EBCHYAx33wE4-jr0udc3g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b334" } ,
+        "business_id": { "type": "literal" , "value": "Ns4Cu0YlZlvGfpYTzO5QAg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b335" } ,
+        "business_id": { "type": "literal" , "value": "PP4IjZwLwBqFT3AlnEhajw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b336" } ,
+        "business_id": { "type": "literal" , "value": "3iUsG46B1r-BONbfd16eYQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b337" } ,
+        "business_id": { "type": "literal" , "value": "5rED81chWxv2Z_hDgtHawg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b338" } ,
+        "business_id": { "type": "literal" , "value": "0uNVHPnk863-nByXpmx93Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b339" } ,
+        "business_id": { "type": "literal" , "value": "hfoHYhD4uzqsHQDxKMFnQw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b340" } ,
+        "business_id": { "type": "literal" , "value": "32bVxW6HH84YpfmFNMdR_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b341" } ,
+        "business_id": { "type": "literal" , "value": "loRoCo53b30zgHZ_mIMatQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b342" } ,
+        "business_id": { "type": "literal" , "value": "GXoyghOLMeUOTwbhexXlOg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b343" } ,
+        "business_id": { "type": "literal" , "value": "NmfP72i2n244X-36jRw-ww" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b344" } ,
+        "business_id": { "type": "literal" , "value": "FBNgHrNdA9vlFX5RRK7SQA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b345" } ,
+        "business_id": { "type": "literal" , "value": "qCV6-kUn5YbyCIWrBhivbA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b346" } ,
+        "business_id": { "type": "literal" , "value": "bsQDTJ1Ym1hwf2fJBYcVEA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b347" } ,
+        "business_id": { "type": "literal" , "value": "rJg8mTJdL-n7Nx0MwJBYvg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b348" } ,
+        "business_id": { "type": "literal" , "value": "9V-B3Lcmgf0Z-ZjKdTqwjQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b349" } ,
+        "business_id": { "type": "literal" , "value": "aoH2NWs312ES--8bJTDJEw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b350" } ,
+        "business_id": { "type": "literal" , "value": "L3uILCYvEbXZA-mgDcSmRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b351" } ,
+        "business_id": { "type": "literal" , "value": "eIQb0bPHEUtFaDbwuuCngw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b352" } ,
+        "business_id": { "type": "literal" , "value": "UKMiC9K7vJF5stMaJXrN6g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b353" } ,
+        "business_id": { "type": "literal" , "value": "EZNCMWwmqlrIfblMm7KJtw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b354" } ,
+        "business_id": { "type": "literal" , "value": "f-V-TUuLsw9HIC07q8vLFw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b355" } ,
+        "business_id": { "type": "literal" , "value": "ROObtmtjJBQooXKVWfqF5w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b356" } ,
+        "business_id": { "type": "literal" , "value": "pRHHVhwKI6dh_LFCQETysA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b357" } ,
+        "business_id": { "type": "literal" , "value": "7I-obKks6ovNvT81lHZnyw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b358" } ,
+        "business_id": { "type": "literal" , "value": "55HtgDCymUxRo6a5QIDkDQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b359" } ,
+        "business_id": { "type": "literal" , "value": "1v_htWzNQLyhhNG4ibMt5Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b360" } ,
+        "business_id": { "type": "literal" , "value": "Ziix5uzW9hJu5nYDxCmm1Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b361" } ,
+        "business_id": { "type": "literal" , "value": "J7KvI94QUxab29LLeG6bew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b362" } ,
+        "business_id": { "type": "literal" , "value": "_nzPPOik-fYE1i4LqKutIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b363" } ,
+        "business_id": { "type": "literal" , "value": "t1D0_Kq6dzrzs84KkQkfNw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b364" } ,
+        "business_id": { "type": "literal" , "value": "6SCpK_ySCIrwceynQWo2lw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b365" } ,
+        "business_id": { "type": "literal" , "value": "wx0KjNCZG_lh6OOynr9Exg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b366" } ,
+        "business_id": { "type": "literal" , "value": "vlY2EbErFb1ytT7bdppqlg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b367" } ,
+        "business_id": { "type": "literal" , "value": "wIgqvPBnY-w-qO9oPTvBjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b368" } ,
+        "business_id": { "type": "literal" , "value": "nX3ypIx_Li7ZTXmzSr3kGQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b369" } ,
+        "business_id": { "type": "literal" , "value": "mw_qxZJraNu7Q6u0GkcMew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b370" } ,
+        "business_id": { "type": "literal" , "value": "0IWCmdWbv1w-5IgpKqtY8A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b371" } ,
+        "business_id": { "type": "literal" , "value": "1d_ibaAbbaGxitY-__arLw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b372" } ,
+        "business_id": { "type": "literal" , "value": "N7Lm5E8jZIvYhzUZo14J4w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b373" } ,
+        "business_id": { "type": "literal" , "value": "RmG4b3Zp07CZF-F9mw8mQg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b374" } ,
+        "business_id": { "type": "literal" , "value": "cG_mTSO0SQu3BPhqXXKWaQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b375" } ,
+        "business_id": { "type": "literal" , "value": "1bGOJiroc8fvVJRxKMAjBg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b376" } ,
+        "business_id": { "type": "literal" , "value": "fMZRia9Jq8CXgP3Wna6_gg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b377" } ,
+        "business_id": { "type": "literal" , "value": "XC7F87UsL4WYEAb4bFsySg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b378" } ,
+        "business_id": { "type": "literal" , "value": "PqphjdWDuYd7Mcjhsbp6UA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b379" } ,
+        "business_id": { "type": "literal" , "value": "sqBd_ESMeqKz_AiRJXnHkw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b380" } ,
+        "business_id": { "type": "literal" , "value": "AzLtjMpwuGGZ1bWbE2XC8A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b381" } ,
+        "business_id": { "type": "literal" , "value": "RnbGHCsUHXZHg6uovJEOuw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b382" } ,
+        "business_id": { "type": "literal" , "value": "zjWGMm1SGJWeSaDpVVDU4g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b383" } ,
+        "business_id": { "type": "literal" , "value": "-Eg1pMVoWg8YR6-O4QuTxw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b384" } ,
+        "business_id": { "type": "literal" , "value": "Zsg1qVQZENOyuCbWAnY04Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b385" } ,
+        "business_id": { "type": "literal" , "value": "A2EQ-c_AaRoTmRGfO-HByQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b386" } ,
+        "business_id": { "type": "literal" , "value": "SfkRN960vVQ74mbowSEuXQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b387" } ,
+        "business_id": { "type": "literal" , "value": "pSYYrZsJJh3GVdPL8fHsGQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b388" } ,
+        "business_id": { "type": "literal" , "value": "N78TSwxdXeYZaKZsyvkryA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b389" } ,
+        "business_id": { "type": "literal" , "value": "dem-HuYMGG4F-RrQ8wetpg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b390" } ,
+        "business_id": { "type": "literal" , "value": "eOnMGfoj3YOxGPDjrDE-sg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b391" } ,
+        "business_id": { "type": "literal" , "value": "ADkruHmdL2nz8Ge8TgMONg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b392" } ,
+        "business_id": { "type": "literal" , "value": "ZvYWXHRKBclnRIs9P-gbJA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b393" } ,
+        "business_id": { "type": "literal" , "value": "n-_p1jwGCbZT9YaTbugsdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b394" } ,
+        "business_id": { "type": "literal" , "value": "6DcaOhKuSj6TzSDH9xHOnQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b395" } ,
+        "business_id": { "type": "literal" , "value": "F0n25o5lpaFJpEW8DFS8Ww" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b396" } ,
+        "business_id": { "type": "literal" , "value": "owJ_0-9YBYfy40YD7l_KSA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b397" } ,
+        "business_id": { "type": "literal" , "value": "ptUynJujMTpfZr3ScodL2A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b398" } ,
+        "business_id": { "type": "literal" , "value": "EDw7x8APLyasRkirpmNszg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b399" } ,
+        "business_id": { "type": "literal" , "value": "KKggcdn-9u26buQbDDMdaw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b400" } ,
+        "business_id": { "type": "literal" , "value": "eH0WqF9lWwefMjyomdu5Jw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b401" } ,
+        "business_id": { "type": "literal" , "value": "88VLUjOxXyayaaSFS_K4Dw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b402" } ,
+        "business_id": { "type": "literal" , "value": "0NuHTYW-xLypDfOUjZsj9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b403" } ,
+        "business_id": { "type": "literal" , "value": "Xfg6HIaqB5CzR8v5_0XpRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b404" } ,
+        "business_id": { "type": "literal" , "value": "lcvRKfmD7t4MNyCpNlcS5g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b405" } ,
+        "business_id": { "type": "literal" , "value": "BICRl8FOudjjloh1kc9Glw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b406" } ,
+        "business_id": { "type": "literal" , "value": "0Ja-2SGZhK1bq-KNz3_QPg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b407" } ,
+        "business_id": { "type": "literal" , "value": "zyTo1jeo7206-eAYkEMKiA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b408" } ,
+        "business_id": { "type": "literal" , "value": "VdNTcu-InKQ48E5XR41Tpg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b409" } ,
+        "business_id": { "type": "literal" , "value": "XqaO85CV9Km7m_aQ3iIpRA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b410" } ,
+        "business_id": { "type": "literal" , "value": "1iU41Mf9FGZACZZmdaemaw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b411" } ,
+        "business_id": { "type": "literal" , "value": "qOiMLaTf3b7cCtgTiEgH3g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b412" } ,
+        "business_id": { "type": "literal" , "value": "cn7_fQ_89j_0Ul_dmx-EpQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b413" } ,
+        "business_id": { "type": "literal" , "value": "lUutRoZOtqOgrBuCLdpD-A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b414" } ,
+        "business_id": { "type": "literal" , "value": "bXy4Gg1_cVD5plOBPF5W_w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b415" } ,
+        "business_id": { "type": "literal" , "value": "1R5vKiGf8RaLLA-zyyvmvQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b416" } ,
+        "business_id": { "type": "literal" , "value": "0wHq30wgfCaBHI-Bm6PwoA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b417" } ,
+        "business_id": { "type": "literal" , "value": "D_i7FJvOLcnu2uMZ-TGV3A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b418" } ,
+        "business_id": { "type": "literal" , "value": "ZqWoPwzgI9WseLWTtmNzdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b419" } ,
+        "business_id": { "type": "literal" , "value": "hww2qQs51UoMK9B1ufJ_JA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b420" } ,
+        "business_id": { "type": "literal" , "value": "3fgpLKoDYpS3B1P57rv2vg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b421" } ,
+        "business_id": { "type": "literal" , "value": "QjWGUAFEXpjMzVQ1NdyfrA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b422" } ,
+        "business_id": { "type": "literal" , "value": "MAfomMiBWp7n-cwbk6ItuQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b423" } ,
+        "business_id": { "type": "literal" , "value": "ABrcH2VyNxv5jrIYfg80dA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b424" } ,
+        "business_id": { "type": "literal" , "value": "S0j-zDUb1uSB6SPPVB8olw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b425" } ,
+        "business_id": { "type": "literal" , "value": "b5NTm7eEDK5msTQH3aCYOw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b426" } ,
+        "business_id": { "type": "literal" , "value": "vhHtoQSfLRWNKF1qxqH3NQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b427" } ,
+        "business_id": { "type": "literal" , "value": "_AP08fWMG4wNMJmg8dZ1eQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b428" } ,
+        "business_id": { "type": "literal" , "value": "YKBeYSWYU4KYxh9u7TnV-A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b429" } ,
+        "business_id": { "type": "literal" , "value": "TNV7UD5SU-MInc9NYiA7Vw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b430" } ,
+        "business_id": { "type": "literal" , "value": "e3SRzV_dN_t5ZQW9TtK1qQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b431" } ,
+        "business_id": { "type": "literal" , "value": "-3FjSLA_bfyEY_qMT8N27Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b432" } ,
+        "business_id": { "type": "literal" , "value": "KBSGRQOYZqR0reJR_2osBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b433" } ,
+        "business_id": { "type": "literal" , "value": "CKDU9kpeLQy56_X0urimfA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b434" } ,
+        "business_id": { "type": "literal" , "value": "wVlxPWwFL-MrzCXim-UfWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b435" } ,
+        "business_id": { "type": "literal" , "value": "tcreyfoiR2NFMuEz0UClrg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b436" } ,
+        "business_id": { "type": "literal" , "value": "xqxRL30UDtEP3v1E_x-SlA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b437" } ,
+        "business_id": { "type": "literal" , "value": "2IrHhNP5L_OZgn03KIMK1g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b438" } ,
+        "business_id": { "type": "literal" , "value": "q1ahAU8s0Jr_zO-K0kl16g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b439" } ,
+        "business_id": { "type": "literal" , "value": "CpKKnuf2hQTFwT2gLzTkBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b440" } ,
+        "business_id": { "type": "literal" , "value": "L6n38W1tbynavUpMEd_aSA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b441" } ,
+        "business_id": { "type": "literal" , "value": "FGFwmd9a9Rhi7XS5LjJGFA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b442" } ,
+        "business_id": { "type": "literal" , "value": "li6rp28fX2_euqwpNTT7DA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b443" } ,
+        "business_id": { "type": "literal" , "value": "4dOPXv8z_nqB8wBWVVWecA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b444" } ,
+        "business_id": { "type": "literal" , "value": "z88fJuLcns9LHA7uKZf_aw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b445" } ,
+        "business_id": { "type": "literal" , "value": "oRIyL281Ov5SSb6PyuWvaw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b446" } ,
+        "business_id": { "type": "literal" , "value": "3thW8u8cgdCLKgYhKMhXBw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b447" } ,
+        "business_id": { "type": "literal" , "value": "J-hlHfICWs5v5f3vF5gcEQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b448" } ,
+        "business_id": { "type": "literal" , "value": "IJXlBxQWk9Vc-vCLMXxwjA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b449" } ,
+        "business_id": { "type": "literal" , "value": "Dz3GF5EvC3kzM-Jf_nLCDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b450" } ,
+        "business_id": { "type": "literal" , "value": "uwhoelgd8g7doGb2ckWYGw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b451" } ,
+        "business_id": { "type": "literal" , "value": "Jbie6XvV-3nlpA5JRAyntA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b452" } ,
+        "business_id": { "type": "literal" , "value": "xaO75FONLcaJfymXuKIVnQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b453" } ,
+        "business_id": { "type": "literal" , "value": "WBUbLi1jF1PWEU5uOpErYA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b454" } ,
+        "business_id": { "type": "literal" , "value": "kGV9HdKya6vBZq4Ir2sNbA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b455" } ,
+        "business_id": { "type": "literal" , "value": "LtB8pKovTvDYsWaR_z8MPw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b456" } ,
+        "business_id": { "type": "literal" , "value": "h8wejJ3V_dsRaR7x18O0PQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b457" } ,
+        "business_id": { "type": "literal" , "value": "H5SRAaDvvzc07Z5gCHGvVw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b458" } ,
+        "business_id": { "type": "literal" , "value": "5chnaQmGHf1m-WV9F04vdQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b459" } ,
+        "business_id": { "type": "literal" , "value": "JcDhsaknWB4PY6WyJE8kkw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b460" } ,
+        "business_id": { "type": "literal" , "value": "FYdXoYjeG8U59mhRqS7k5g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b461" } ,
+        "business_id": { "type": "literal" , "value": "Js69c56UgYrEhjA-ONX5qw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b462" } ,
+        "business_id": { "type": "literal" , "value": "YstKSSb8RkPQ9ZnARxUAew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b463" } ,
+        "business_id": { "type": "literal" , "value": "Eexegu4YJJd1kgCxjTHv8w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b464" } ,
+        "business_id": { "type": "literal" , "value": "5ZPHxwj9l5sl_nITMobavg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b465" } ,
+        "business_id": { "type": "literal" , "value": "MYainrGOUR9OGC0eXqpkuA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b466" } ,
+        "business_id": { "type": "literal" , "value": "CZXrdxJsQtrSS41A7IVDWQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b467" } ,
+        "business_id": { "type": "literal" , "value": "N0cWRlBXR6FXIFDekl-qpQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b468" } ,
+        "business_id": { "type": "literal" , "value": "uttQ5o-_9DjC-PGIl8VPhw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b469" } ,
+        "business_id": { "type": "literal" , "value": "Icy57ClES-kBwt_l5pufYA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b470" } ,
+        "business_id": { "type": "literal" , "value": "C3TmAK7JXsT8Z2JnI-Mwrg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b471" } ,
+        "business_id": { "type": "literal" , "value": "UEzbwXNs6xNKscKZ39FiCw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b472" } ,
+        "business_id": { "type": "literal" , "value": "F5_NonP-uoq4v3qplmjiLA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b473" } ,
+        "business_id": { "type": "literal" , "value": "YSr8GPuvIVXKGhbTO1aLRA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b474" } ,
+        "business_id": { "type": "literal" , "value": "LzqmHdwLkAsd4asB0dc5_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b475" } ,
+        "business_id": { "type": "literal" , "value": "-ntGRFLfW264UwZTuX9N0Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b476" } ,
+        "business_id": { "type": "literal" , "value": "kM5iTMtX3kk0tJImWoML9A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b477" } ,
+        "business_id": { "type": "literal" , "value": "hw7B3GVDKad9vlx5bUu6XA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b478" } ,
+        "business_id": { "type": "literal" , "value": "PlbQvHaTWCj7cwLQZeiq7Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b479" } ,
+        "business_id": { "type": "literal" , "value": "Q7SAbnbAhr5n3_S6tF0fQg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b480" } ,
+        "business_id": { "type": "literal" , "value": "KA6bJknmTgvQD0nem8-FgQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b481" } ,
+        "business_id": { "type": "literal" , "value": "rt1UvC0ao4atDGHOUuAT-g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b482" } ,
+        "business_id": { "type": "literal" , "value": "E9oVLd7k4BYGpKOmSaxGMg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b483" } ,
+        "business_id": { "type": "literal" , "value": "E4ejoHJHIOvVhkca3kWRuQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b484" } ,
+        "business_id": { "type": "literal" , "value": "9Z7MniAhqC8F1nRsgKGwZg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b485" } ,
+        "business_id": { "type": "literal" , "value": "nDr6VgO_4N6N_XvAkMYFwA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b486" } ,
+        "business_id": { "type": "literal" , "value": "tiEZk_EqzFQcxyoIFtazXg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b487" } ,
+        "business_id": { "type": "literal" , "value": "Qv5NvNJ2wrTA-mgnyxvv_w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b488" } ,
+        "business_id": { "type": "literal" , "value": "cQUaUM1vq7QiOVuxE-GFqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b489" } ,
+        "business_id": { "type": "literal" , "value": "TDxyi0IIrmKqcJ3cdn1QSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b490" } ,
+        "business_id": { "type": "literal" , "value": "FrFDIPBzRbFVfanxG4wcNQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b491" } ,
+        "business_id": { "type": "literal" , "value": "BvvCEDQdLBXIzA_Gbzn1iA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b492" } ,
+        "business_id": { "type": "literal" , "value": "_qUhIgaO4i7pXvbW_-4czA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b493" } ,
+        "business_id": { "type": "literal" , "value": "pa_jgD1BBfR7FP9RKOcGeQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b494" } ,
+        "business_id": { "type": "literal" , "value": "-vsysIFoJ_Gt_Oj5o-ez1A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b495" } ,
+        "business_id": { "type": "literal" , "value": "SRHQEF2-VPS_dl1_ZDH0gA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b496" } ,
+        "business_id": { "type": "literal" , "value": "i0AbEdCRtMLACp5TUewbOA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b497" } ,
+        "business_id": { "type": "literal" , "value": "ynM2sHgvOG4DBJNDf1GKUQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b498" } ,
+        "business_id": { "type": "literal" , "value": "SlGmAWMubRSgU70Kswkmhw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b499" } ,
+        "business_id": { "type": "literal" , "value": "EVRxtTx_olxE0FOXpq2jyQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b500" } ,
+        "business_id": { "type": "literal" , "value": "JyoZm72luJUJO0r2cwcPuw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b501" } ,
+        "business_id": { "type": "literal" , "value": "Lbkmt8RRWw_VefKsa6kFiQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b502" } ,
+        "business_id": { "type": "literal" , "value": "TDT5DiZ9preK1ad0AFLlDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b503" } ,
+        "business_id": { "type": "literal" , "value": "P0l1XH6KHqo6rk-R03SDXA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b504" } ,
+        "business_id": { "type": "literal" , "value": "CDHhzefl1AQ1FqGADr8fow" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b505" } ,
+        "business_id": { "type": "literal" , "value": "cl8_roQGXbifAdRyFlk03g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b506" } ,
+        "business_id": { "type": "literal" , "value": "PW76Qynn2qVyzW5FyxU2pw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b507" } ,
+        "business_id": { "type": "literal" , "value": "v0JsxUheVEeQQZOAz6eBsQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b508" } ,
+        "business_id": { "type": "literal" , "value": "-RFOOvy0MIVCA80UKpAQeg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b509" } ,
+        "business_id": { "type": "literal" , "value": "lWNHGwCFU0XQDHYXCBObHA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b510" } ,
+        "business_id": { "type": "literal" , "value": "3kYyVfMGxkgl5NDY-z5IBg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b511" } ,
+        "business_id": { "type": "literal" , "value": "sP1TtjP1pdCY03-K3ehVkA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b512" } ,
+        "business_id": { "type": "literal" , "value": "4YpDKbN5fjeduPVxE1f2Kw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b513" } ,
+        "business_id": { "type": "literal" , "value": "m5Hbatv6OfrEKW-8AwBK9A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b514" } ,
+        "business_id": { "type": "literal" , "value": "hrCpuDlWfbFHHr9I8W6O-A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b515" } ,
+        "business_id": { "type": "literal" , "value": "sEeRmVEWj3sp-oxicCKGCQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b516" } ,
+        "business_id": { "type": "literal" , "value": "U4sddbqRBCS4Km-B7y3vBA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b517" } ,
+        "business_id": { "type": "literal" , "value": "eHtE8D7UCcmCh2b4uDYNuw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b518" } ,
+        "business_id": { "type": "literal" , "value": "n9E36A6-eZEaZ4C_iJByHw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b519" } ,
+        "business_id": { "type": "literal" , "value": "9G8RFNGgFABg_0kAZY6ZdA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b520" } ,
+        "business_id": { "type": "literal" , "value": "LJ-6WM9DkhE4-HRRV2cGfA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b521" } ,
+        "business_id": { "type": "literal" , "value": "xY6MCYdKz339KxII-_ekFA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b522" } ,
+        "business_id": { "type": "literal" , "value": "RP3LQCq501T2nmef6Xmy4g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b523" } ,
+        "business_id": { "type": "literal" , "value": "pGpDZ4nV9FuojeVFy037rg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b524" } ,
+        "business_id": { "type": "literal" , "value": "wat2sEhiFtl41azQ0UBjSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b525" } ,
+        "business_id": { "type": "literal" , "value": "WKZywA4Q_AbAiUZbEC7LYw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b526" } ,
+        "business_id": { "type": "literal" , "value": "sTZHmMt6lvSCa9wkmJlkuA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b527" } ,
+        "business_id": { "type": "literal" , "value": "KYHnqkdpa1HAhbtcTm70tA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b528" } ,
+        "business_id": { "type": "literal" , "value": "EDfVBzGeIedQ6rIHbYUNDQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b529" } ,
+        "business_id": { "type": "literal" , "value": "SZBALT7_Pkg-Bin-U3Qzkg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b530" } ,
+        "business_id": { "type": "literal" , "value": "92U5Fpu4dFh4wZvAJHM6lw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b531" } ,
+        "business_id": { "type": "literal" , "value": "guYnW-MrSjajUqveIl4zIw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b532" } ,
+        "business_id": { "type": "literal" , "value": "DtOUYfEGFJ8y7YC5VnM9UA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b533" } ,
+        "business_id": { "type": "literal" , "value": "7gQHCKoBzkH6NIJcpcDBbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b534" } ,
+        "business_id": { "type": "literal" , "value": "PDwWsE6XYJPR83HrBSDFIg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b535" } ,
+        "business_id": { "type": "literal" , "value": "RG14VD07mNN-oXeTAYB8Fg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b536" } ,
+        "business_id": { "type": "literal" , "value": "FbgoSueitrozGXzjEX_u4Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b537" } ,
+        "business_id": { "type": "literal" , "value": "_AWn-Kjh01wPV97KUK3DJQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b538" } ,
+        "business_id": { "type": "literal" , "value": "Om5_EJ6OKzF1TQUNMy_21w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b539" } ,
+        "business_id": { "type": "literal" , "value": "IBhcT7cfQYvxxZE5xgTOLw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b540" } ,
+        "business_id": { "type": "literal" , "value": "XCyX0tFg0HKi_xILMDO1vg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b541" } ,
+        "business_id": { "type": "literal" , "value": "SksM8tYBTwDcl0FQ6-Lz3w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b542" } ,
+        "business_id": { "type": "literal" , "value": "573kl0gJWMq6LFNUyCudpw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b543" } ,
+        "business_id": { "type": "literal" , "value": "LaXtolB4bXCO13Kwfm-iOg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b544" } ,
+        "business_id": { "type": "literal" , "value": "3lPMYiIC7zqRGfYhnJdxrg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b545" } ,
+        "business_id": { "type": "literal" , "value": "LI4XboE60y544kAMLoqmAw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b546" } ,
+        "business_id": { "type": "literal" , "value": "sHoArd2Ajd52NbfQP7TNEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b547" } ,
+        "business_id": { "type": "literal" , "value": "qp0XQcIxIT9PtYbcoT6PqA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b548" } ,
+        "business_id": { "type": "literal" , "value": "9AQ1io2V6_AXM5Yo_H337A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b549" } ,
+        "business_id": { "type": "literal" , "value": "tTZniqNNSXNDj4A8W6Rw9A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b550" } ,
+        "business_id": { "type": "literal" , "value": "XBq9CkKa9-i74MdmGhkaDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b551" } ,
+        "business_id": { "type": "literal" , "value": "42bggNbPWdC2_2vWh7w8nw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b552" } ,
+        "business_id": { "type": "literal" , "value": "QfG8RePOM8Gx0D7sUUlmiw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b553" } ,
+        "business_id": { "type": "literal" , "value": "RkQr7J48WkYqfLGwflGbTg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b554" } ,
+        "business_id": { "type": "literal" , "value": "MZG7e7LU7USf-ssys3Q0TA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b555" } ,
+        "business_id": { "type": "literal" , "value": "0HI8R-KePhzdhzgSdt4ibA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b556" } ,
+        "business_id": { "type": "literal" , "value": "0huNwZ4v24LoCu_MgyRFMA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b557" } ,
+        "business_id": { "type": "literal" , "value": "0SFalTi9ctaTD8SG2-r_UA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b558" } ,
+        "business_id": { "type": "literal" , "value": "splo-B5sr3mRmbRY0O-_HQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b559" } ,
+        "business_id": { "type": "literal" , "value": "fDagm540ieAAh5G9LA27Yg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b560" } ,
+        "business_id": { "type": "literal" , "value": "pH6cvYiG4-bx0jIGZrV1Mw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b561" } ,
+        "business_id": { "type": "literal" , "value": "jE5V1b2JPvo5rCHuQY2zNg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b562" } ,
+        "business_id": { "type": "literal" , "value": "iq2n_LJgdZZ6FpoQZTpD2g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b563" } ,
+        "business_id": { "type": "literal" , "value": "Y25fgtFHdoV9rA74v5tFDg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b564" } ,
+        "business_id": { "type": "literal" , "value": "uUBBx7zH6JJYw4t7RsQRQA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b565" } ,
+        "business_id": { "type": "literal" , "value": "vZoXcnq3wY0uJXevb_kZUA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b566" } ,
+        "business_id": { "type": "literal" , "value": "K5M7eDkRXtSc_oPS5gryFw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b567" } ,
+        "business_id": { "type": "literal" , "value": "t90bwxvSUxIwOVKDDZAUZw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b568" } ,
+        "business_id": { "type": "literal" , "value": "uDkQNmPMTHJCFrTo0Wjx1A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b569" } ,
+        "business_id": { "type": "literal" , "value": "wYe_lvuzST85uqJGzitJLA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b570" } ,
+        "business_id": { "type": "literal" , "value": "t4Fd0eafK2KWFkV-afxxPA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b571" } ,
+        "business_id": { "type": "literal" , "value": "D8-ssK_8w1WBajKCXUG5Uw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b572" } ,
+        "business_id": { "type": "literal" , "value": "yKZtr0J2cygJiu3sGv8gbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b573" } ,
+        "business_id": { "type": "literal" , "value": "RJSsnPCuD590TgAOx_MYsQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b574" } ,
+        "business_id": { "type": "literal" , "value": "GvLnnALFOCdxdUrUCSfs-Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b575" } ,
+        "business_id": { "type": "literal" , "value": "g339Vo2-EsVjbK__iglY6A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b576" } ,
+        "business_id": { "type": "literal" , "value": "iI4bRxfKaAZuYW7lFhceig" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b577" } ,
+        "business_id": { "type": "literal" , "value": "-TF0l1qMUTsrNcYZehaPzg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b578" } ,
+        "business_id": { "type": "literal" , "value": "RzpmK85n8n8RE4Th8GFAog" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b579" } ,
+        "business_id": { "type": "literal" , "value": "u1at3Wrovnm0628ziAGGDw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b580" } ,
+        "business_id": { "type": "literal" , "value": "EToQtpUGRoib9nfHpmwmUQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b581" } ,
+        "business_id": { "type": "literal" , "value": "UXujX1O45f4cNgqnGJaZHw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b582" } ,
+        "business_id": { "type": "literal" , "value": "ORhpT5x2G4hewGQn7_oWmA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b583" } ,
+        "business_id": { "type": "literal" , "value": "ZQ02hYhOhQssZF5wHlaRGw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b584" } ,
+        "business_id": { "type": "literal" , "value": "ZEEDCAxJ71X-BT-Azk1VDA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b585" } ,
+        "business_id": { "type": "literal" , "value": "jIfy-ltIeEGSz7sAkRFK2Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b586" } ,
+        "business_id": { "type": "literal" , "value": "SvTMnKWgV4AMH6Y2g_vRPQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b587" } ,
+        "business_id": { "type": "literal" , "value": "Fk6ukR0VYItru6FKSg9HWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b588" } ,
+        "business_id": { "type": "literal" , "value": "Kcg4VcMuBjDtUXHimq4cpg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b589" } ,
+        "business_id": { "type": "literal" , "value": "ufGAA_N2mU_VsVcSVxXClg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b590" } ,
+        "business_id": { "type": "literal" , "value": "pFTSM-g4dOJeqjnzpcp4hQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b591" } ,
+        "business_id": { "type": "literal" , "value": "KF0VPN9CRDhIMF25sXtY9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b592" } ,
+        "business_id": { "type": "literal" , "value": "9JRIp0cJUtCV_-riFGmDnQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b593" } ,
+        "business_id": { "type": "literal" , "value": "or-Kyw7kmNin1pWbu2RLJw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b594" } ,
+        "business_id": { "type": "literal" , "value": "sJNMic9YAN7rSy8RnHZ0qw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b595" } ,
+        "business_id": { "type": "literal" , "value": "wILwYrHzMN_Fbnjjr0B8KQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b596" } ,
+        "business_id": { "type": "literal" , "value": "7lRIEq5_tBBR1T9d_vTDvQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b597" } ,
+        "business_id": { "type": "literal" , "value": "bok7EWlPMa-f7XXMe-a2TA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b598" } ,
+        "business_id": { "type": "literal" , "value": "9c0TJ0m9Jq-PVyXUGzCT0A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b599" } ,
+        "business_id": { "type": "literal" , "value": "ORQERPJ_ZXq_jdKwwOIXbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b600" } ,
+        "business_id": { "type": "literal" , "value": "0rY0xkXahayy1z35KD-s7A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b601" } ,
+        "business_id": { "type": "literal" , "value": "A0F6H8OO3qYAvI2L3OCp1g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b602" } ,
+        "business_id": { "type": "literal" , "value": "1Sq21W65_nFPQWq8QZimvg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b603" } ,
+        "business_id": { "type": "literal" , "value": "fRi0NgK65Inn8x9Pak9yMg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b604" } ,
+        "business_id": { "type": "literal" , "value": "ecQX_lIsTjELjSaSuO7jfA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b605" } ,
+        "business_id": { "type": "literal" , "value": "kTeiieBa9fVcYpo3diw_6Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b606" } ,
+        "business_id": { "type": "literal" , "value": "w4h0Bq9-CTznhi5tudupaw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b607" } ,
+        "business_id": { "type": "literal" , "value": "lSg73ACm7rWWgO_a78AHmw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b608" } ,
+        "business_id": { "type": "literal" , "value": "w2-YU0fwwTe0bPgftW1C_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b609" } ,
+        "business_id": { "type": "literal" , "value": "DpHPj1fhm-YJd0VtuMcqZA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b610" } ,
+        "business_id": { "type": "literal" , "value": "VHTdTeuNQiQ6IsfCAdpKyQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b611" } ,
+        "business_id": { "type": "literal" , "value": "zyBC3BUkH9klhPhMyQmxAQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b612" } ,
+        "business_id": { "type": "literal" , "value": "qbnnaCEVqTevK6hgrFw5Kw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b613" } ,
+        "business_id": { "type": "literal" , "value": "_TTsA0J7UfNkVyjp45G79Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b614" } ,
+        "business_id": { "type": "literal" , "value": "c3ON_aKOvpGWVZAdPQstqg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b615" } ,
+        "business_id": { "type": "literal" , "value": "UN7B-bBYJEVOas5lOIU0Zg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b616" } ,
+        "business_id": { "type": "literal" , "value": "EWzFa3GkEw8PoX9lrJC0qw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b617" } ,
+        "business_id": { "type": "literal" , "value": "lsNDQvbWLfEhL5yHK0hTrw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b618" } ,
+        "business_id": { "type": "literal" , "value": "P-5Ze1LN_KqrWBhha-kJTA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b619" } ,
+        "business_id": { "type": "literal" , "value": "GSzYkEVt4noryLU39oFdbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b620" } ,
+        "business_id": { "type": "literal" , "value": "MwNAy-UtiTKbJrrFxWEs7Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b621" } ,
+        "business_id": { "type": "literal" , "value": "tXcr_zjVJBO-sRIF_Pn44A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b622" } ,
+        "business_id": { "type": "literal" , "value": "RYzWC7G9p53Qd_LcYWqOkA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b623" } ,
+        "business_id": { "type": "literal" , "value": "3kMrTQGdIf5__to5gvp71Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b624" } ,
+        "business_id": { "type": "literal" , "value": "hFInClJns9HoGiB-eq-xtg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b625" } ,
+        "business_id": { "type": "literal" , "value": "yKOKQeFTRFurFqLPh63t0Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b626" } ,
+        "business_id": { "type": "literal" , "value": "I1xE8Xy3M12dTOcRnsu71A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b627" } ,
+        "business_id": { "type": "literal" , "value": "8cVFf3Dfy5ufaR3EePPRFQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b628" } ,
+        "business_id": { "type": "literal" , "value": "iRkFdLYre6Z3aep82U6_1Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b629" } ,
+        "business_id": { "type": "literal" , "value": "jabgAFUaXZ9jM_b4vB2wSg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b630" } ,
+        "business_id": { "type": "literal" , "value": "iBl91YcJwdTG6zpTJaWhNA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b631" } ,
+        "business_id": { "type": "literal" , "value": "Yz7avqsSiG-llNaPSv8Q7g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b632" } ,
+        "business_id": { "type": "literal" , "value": "mo_hPUT3G1WsUFyFCf1aaw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b633" } ,
+        "business_id": { "type": "literal" , "value": "FOpSOZyQxmCvEGVUQFYQYg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b634" } ,
+        "business_id": { "type": "literal" , "value": "Jv0Vr2AG4oZP1qNB0CG2LA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b635" } ,
+        "business_id": { "type": "literal" , "value": "XoDncUIxgLLfeG1Szb6X1Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b636" } ,
+        "business_id": { "type": "literal" , "value": "HYGVG0AuGifJC63MCB8VAw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b637" } ,
+        "business_id": { "type": "literal" , "value": "GzlroXsuFyMDv8qS2VM3kw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b638" } ,
+        "business_id": { "type": "literal" , "value": "QhIYPfHPssNClFzdMFBftw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b639" } ,
+        "business_id": { "type": "literal" , "value": "q5VXVDhIeFlfofTn_PKxCQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b640" } ,
+        "business_id": { "type": "literal" , "value": "DfR7jBvZ8H4KbvG-JpuQdg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b641" } ,
+        "business_id": { "type": "literal" , "value": "zDdVPw2wmUMtreIasT-YMA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b642" } ,
+        "business_id": { "type": "literal" , "value": "6TacHwoFMdf1qsV5kN1YOg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b643" } ,
+        "business_id": { "type": "literal" , "value": "T948928ZUluvdt9Hs5H6NQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b644" } ,
+        "business_id": { "type": "literal" , "value": "7h0iRV0Y3z5de4biucsuhg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b645" } ,
+        "business_id": { "type": "literal" , "value": "iCobTpDQNuSllJ4GcO_lpw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b646" } ,
+        "business_id": { "type": "literal" , "value": "T55nNWr06T492oDUh0R8bQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b647" } ,
+        "business_id": { "type": "literal" , "value": "_VARP3JaWEkdQA_HhdaxLg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b648" } ,
+        "business_id": { "type": "literal" , "value": "8rYodz3Eft20g8aKgUSXsg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b649" } ,
+        "business_id": { "type": "literal" , "value": "nM6X2lQp5kiVteXBM9975A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b650" } ,
+        "business_id": { "type": "literal" , "value": "QW92GGEZtA5Ikt9wiAi84g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b651" } ,
+        "business_id": { "type": "literal" , "value": "ktUniMSzrGLMv2gBwLNk2A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b652" } ,
+        "business_id": { "type": "literal" , "value": "IjBKuGbZuoqMIPzpvKATvg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b653" } ,
+        "business_id": { "type": "literal" , "value": "g6jfs1CSMZYfKqXvho-IWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b654" } ,
+        "business_id": { "type": "literal" , "value": "nNvxfpcyfjX3diZImb3wHg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b655" } ,
+        "business_id": { "type": "literal" , "value": "tjCT7EyHjDxnB5NCjxCnRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b656" } ,
+        "business_id": { "type": "literal" , "value": "ZI0hmsC9k4Cariv2pC--3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b657" } ,
+        "business_id": { "type": "literal" , "value": "5Bc3U8qu9sYE_hoC7IIorA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b658" } ,
+        "business_id": { "type": "literal" , "value": "HOQw78QIGe3shVx5rMpiCw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b659" } ,
+        "business_id": { "type": "literal" , "value": "m1FiqfqcMMfa53lSu29vPg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b660" } ,
+        "business_id": { "type": "literal" , "value": "QLavaVgcy8u0gpYbSPLEqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b661" } ,
+        "business_id": { "type": "literal" , "value": "2mPEkPKYtvPLSTO8MRqM3w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b662" } ,
+        "business_id": { "type": "literal" , "value": "oMcTT_ETUk0HDCDtHUIVFA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b663" } ,
+        "business_id": { "type": "literal" , "value": "K-d_Utg_HS8yQbMQ3W3KIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b664" } ,
+        "business_id": { "type": "literal" , "value": "YIMAkkwK_8sBlUEnesSCZA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b665" } ,
+        "business_id": { "type": "literal" , "value": "duQh6ZklvOOIOiRM_-FvmQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b666" } ,
+        "business_id": { "type": "literal" , "value": "9aYba2YqvyrhJD2sCRAlGw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b667" } ,
+        "business_id": { "type": "literal" , "value": "0CY-MuVUYMhsrGWGeema5w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b668" } ,
+        "business_id": { "type": "literal" , "value": "6Ep1tOjS85IlziNzXz_HEQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b669" } ,
+        "business_id": { "type": "literal" , "value": "_rt-Z934kfFzgG19nTrIcQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b670" } ,
+        "business_id": { "type": "literal" , "value": "uMPGs_Jc1fBoxeGrCKqRiw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b671" } ,
+        "business_id": { "type": "literal" , "value": "fqqN6DShuRKfqOmBJzrA8g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b672" } ,
+        "business_id": { "type": "literal" , "value": "5i0dcZSboJ2WcbMcIbk1uQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b673" } ,
+        "business_id": { "type": "literal" , "value": "_6UaDhBtrc1iCwwUMmUXVA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b674" } ,
+        "business_id": { "type": "literal" , "value": "FrFkVHwOVczvgDeMS5ZUqQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b675" } ,
+        "business_id": { "type": "literal" , "value": "a9vNMtBOJ49HUgf3EYiEzA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b676" } ,
+        "business_id": { "type": "literal" , "value": "ijXamJnJ1oVGKon_K-DYpA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b677" } ,
+        "business_id": { "type": "literal" , "value": "6B-D2_SQaGU53KQ14LmzoQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b678" } ,
+        "business_id": { "type": "literal" , "value": "_DZLlGP0YDHItOx6nqQbng" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b679" } ,
+        "business_id": { "type": "literal" , "value": "XplAGZ5PQIWcZvvAl2Hu2Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b680" } ,
+        "business_id": { "type": "literal" , "value": "Ttdi1GklLuUL2Jfz25NAOQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b681" } ,
+        "business_id": { "type": "literal" , "value": "A-xLw4u4wYusT1A2N-1Vxw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b682" } ,
+        "business_id": { "type": "literal" , "value": "jHbK0SAR288ZkQKldJtveA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b683" } ,
+        "business_id": { "type": "literal" , "value": "s1OO4kkiinSj4iQ3hlbQwA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b684" } ,
+        "business_id": { "type": "literal" , "value": "bGuXHOhcG-dsimz7PjS__g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b685" } ,
+        "business_id": { "type": "literal" , "value": "FZGQJcqrNI2N3y51nKExMw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b686" } ,
+        "business_id": { "type": "literal" , "value": "M6AsDsEvVeRDaoQw5BfmEA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b687" } ,
+        "business_id": { "type": "literal" , "value": "iar__A7H53V35aqIUfC0yQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b688" } ,
+        "business_id": { "type": "literal" , "value": "7rywsRbSoBNgQo-jNFrOAw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b689" } ,
+        "business_id": { "type": "literal" , "value": "ZnZRIs5GmA9VGa_RwFsHaQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b690" } ,
+        "business_id": { "type": "literal" , "value": "kjmlxlxN9zAgiBh46jFYPA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b691" } ,
+        "business_id": { "type": "literal" , "value": "RLuyDir61dQk89tbMxIIeQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b692" } ,
+        "business_id": { "type": "literal" , "value": "lOEG9j0Txw8DXL22F0MDWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b693" } ,
+        "business_id": { "type": "literal" , "value": "ziX-QyIC-SROlkIA9jEulg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b694" } ,
+        "business_id": { "type": "literal" , "value": "PRfENLF25-ljWHAU69fx0g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b695" } ,
+        "business_id": { "type": "literal" , "value": "qPr7B59XEz8GrSc4vGhhGg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b696" } ,
+        "business_id": { "type": "literal" , "value": "a95xC46ji0L4HSzDXUT5Wg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b697" } ,
+        "business_id": { "type": "literal" , "value": "ryXq_-3CVN343v5t0w6PaQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b698" } ,
+        "business_id": { "type": "literal" , "value": "znjCQfsDWOlfCHBg-Vw_YA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b699" } ,
+        "business_id": { "type": "literal" , "value": "3llkRFbSY2ttbUEhzi9A-w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b700" } ,
+        "business_id": { "type": "literal" , "value": "d6VLOHtN035hHLrGaF2-pQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b701" } ,
+        "business_id": { "type": "literal" , "value": "Ggj82AEtf-6St6_0OvcPxw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b702" } ,
+        "business_id": { "type": "literal" , "value": "B1wPqWap-W8mkAgzt2qeNA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b703" } ,
+        "business_id": { "type": "literal" , "value": "zQRbAOceJyC7xVBBRny2HQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b704" } ,
+        "business_id": { "type": "literal" , "value": "J0KBo9OCagU59ODxk1JdEg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b705" } ,
+        "business_id": { "type": "literal" , "value": "fTSKD2e4FTyUbHCl93t1ow" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b706" } ,
+        "business_id": { "type": "literal" , "value": "JT4iSwV0aAlK68SCRNImZg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b707" } ,
+        "business_id": { "type": "literal" , "value": "T5nfG26Cj24G7mBb2GIuug" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b708" } ,
+        "business_id": { "type": "literal" , "value": "AWat-D7msT_Yfl46PqCSPQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b709" } ,
+        "business_id": { "type": "literal" , "value": "Bu5QbFfhYarTAV-UXx7YAA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b710" } ,
+        "business_id": { "type": "literal" , "value": "FuQExkWBNIYRXShoP9eiog" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b711" } ,
+        "business_id": { "type": "literal" , "value": "5q2vJyH9VzckXIqwgAF4_w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b712" } ,
+        "business_id": { "type": "literal" , "value": "oTs_1wS8Hf_-az2x9V9_ig" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b713" } ,
+        "business_id": { "type": "literal" , "value": "mvCO6pRpfMB0_1GLlwgZRw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b714" } ,
+        "business_id": { "type": "literal" , "value": "N5LTe0qzyhhunYZ0Nrxj_A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b715" } ,
+        "business_id": { "type": "literal" , "value": "cGhF1J1hiLgFLjBKpu4o4w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b716" } ,
+        "business_id": { "type": "literal" , "value": "Z1eRppVpwQXgzAxAc1unTA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b717" } ,
+        "business_id": { "type": "literal" , "value": "ZfKHogPGqQpzgNFSFjfICw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b718" } ,
+        "business_id": { "type": "literal" , "value": "0vztf7rzfqQ2VnCWa8UwIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b719" } ,
+        "business_id": { "type": "literal" , "value": "3r2wuHm037Pp_L_sqPZchw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b720" } ,
+        "business_id": { "type": "literal" , "value": "PeMIPSphjSUPpgYPw1EIjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b721" } ,
+        "business_id": { "type": "literal" , "value": "ziZds2vvl4g8bHciN8-6TA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b722" } ,
+        "business_id": { "type": "literal" , "value": "W1nTo0_Ub5JtXWv1HSBjqQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b723" } ,
+        "business_id": { "type": "literal" , "value": "Tnix-kg0JKRebsWhX9ZIsg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b724" } ,
+        "business_id": { "type": "literal" , "value": "cf3cpzJKYcwYYLwCdZt4nw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b725" } ,
+        "business_id": { "type": "literal" , "value": "lePO4rKNIvORTSnfn4dZ-w" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b726" } ,
+        "business_id": { "type": "literal" , "value": "pVvE7J6p0UWmlw9CBp7Q_Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b727" } ,
+        "business_id": { "type": "literal" , "value": "jyBiQI0XtESTGHXODCFsJQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b728" } ,
+        "business_id": { "type": "literal" , "value": "9HnVH2UDb4KSCOKzFl8u8Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b729" } ,
+        "business_id": { "type": "literal" , "value": "NzgRBQc-kG-xChPmq5SiUQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b730" } ,
+        "business_id": { "type": "literal" , "value": "4h9CoIcYjymGPaZz9v98BA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b731" } ,
+        "business_id": { "type": "literal" , "value": "qSSbCFPbjRm_25hZstQAug" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b732" } ,
+        "business_id": { "type": "literal" , "value": "B4Y_wHDK7I84ZNs7Xuu8Uw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b733" } ,
+        "business_id": { "type": "literal" , "value": "2tJY8t3YdT-5HQUZlX54ig" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b734" } ,
+        "business_id": { "type": "literal" , "value": "cehsOEHduNZ2G07Q1ax9dQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b735" } ,
+        "business_id": { "type": "literal" , "value": "Kfw81lgleDZBOSg9CJHKmA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b736" } ,
+        "business_id": { "type": "literal" , "value": "L2M7SzM8aPzTbpCcmSzk1A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b737" } ,
+        "business_id": { "type": "literal" , "value": "PGp6WaZz8OdhyTc6cUbTUw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b738" } ,
+        "business_id": { "type": "literal" , "value": "LSmYTw4HvU0lDBK4Mg2KyQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b739" } ,
+        "business_id": { "type": "literal" , "value": "Wo7xNKWlq3i5q20VkBb6IQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b740" } ,
+        "business_id": { "type": "literal" , "value": "yJN22oGTlBD5mwRbr1BC3Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b741" } ,
+        "business_id": { "type": "literal" , "value": "RjpLZITCyUghoqJxi0pq9Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b742" } ,
+        "business_id": { "type": "literal" , "value": "cgJxqaZxWYPB4IhRzA-TxQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b743" } ,
+        "business_id": { "type": "literal" , "value": "hZOYhhNMP_yiR7QJT4qawg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b744" } ,
+        "business_id": { "type": "literal" , "value": "lknzQJ0FCN0bkt4sP4O7Tw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b745" } ,
+        "business_id": { "type": "literal" , "value": "u6790nqkNjf6yZtCXhFG7A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b746" } ,
+        "business_id": { "type": "literal" , "value": "8QSlsu6rgENMMVKLWBGBVw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b747" } ,
+        "business_id": { "type": "literal" , "value": "ORDxWtEvKP6a-UAXZ8Epog" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b748" } ,
+        "business_id": { "type": "literal" , "value": "vOrxQhnrpLMUhQHL_cntPg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b749" } ,
+        "business_id": { "type": "literal" , "value": "yrO3SPTgT7EKi6z3uh-IPQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b750" } ,
+        "business_id": { "type": "literal" , "value": "gWLu7I62J49IZkCguBLYqg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b751" } ,
+        "business_id": { "type": "literal" , "value": "EvVCF3mompCg3PPkpqip2A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b752" } ,
+        "business_id": { "type": "literal" , "value": "5MlTTQwu00CMxYVBw-tbyQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b753" } ,
+        "business_id": { "type": "literal" , "value": "oU7R5rBTalDH1HPfozcY1Q" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b754" } ,
+        "business_id": { "type": "literal" , "value": "uAWxoJaYjlrXXif0iuOb2g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b755" } ,
+        "business_id": { "type": "literal" , "value": "r8pjKaza0jJLF9g0aeFVYA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b756" } ,
+        "business_id": { "type": "literal" , "value": "DUo5L0b82OTgPd2MPCkqBQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b757" } ,
+        "business_id": { "type": "literal" , "value": "Hfg_gRsUCEE1-CdFVxa0dw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b758" } ,
+        "business_id": { "type": "literal" , "value": "PPd0quCKyXnWReYKXHv-Pw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b759" } ,
+        "business_id": { "type": "literal" , "value": "8ZxffAyJYBa_nrQSkKMcRg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b760" } ,
+        "business_id": { "type": "literal" , "value": "w2BADjt8Yo5kRyWIJpnhbg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b761" } ,
+        "business_id": { "type": "literal" , "value": "IpNJfLJ6R3RjZJF_ucGaZA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b762" } ,
+        "business_id": { "type": "literal" , "value": "3aYsJfRvTBiUmBUsLLpUyg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b763" } ,
+        "business_id": { "type": "literal" , "value": "rIdojqgqK1IcxYAyJhsLLg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b764" } ,
+        "business_id": { "type": "literal" , "value": "M87pI5ZFMn2QqQ_wIe1SjA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b765" } ,
+        "business_id": { "type": "literal" , "value": "f2wQu-vRn4dPMU4ZdEbVew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b766" } ,
+        "business_id": { "type": "literal" , "value": "dOqEWXBDkhB01uUQcS2wzQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b767" } ,
+        "business_id": { "type": "literal" , "value": "aSCQeWftYjWWjwQiCfg7sA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b768" } ,
+        "business_id": { "type": "literal" , "value": "W3rcXDFFL6KGovc80K5aWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b769" } ,
+        "business_id": { "type": "literal" , "value": "z6JaSGEBzdUArV3_EeLobQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b770" } ,
+        "business_id": { "type": "literal" , "value": "nfIZNsiCvCBO--oboiNgpA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b771" } ,
+        "business_id": { "type": "literal" , "value": "wztFoVBGdNiqwtiihkveiA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b772" } ,
+        "business_id": { "type": "literal" , "value": "NJdqhj35cj1xElxHqfYthw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b773" } ,
+        "business_id": { "type": "literal" , "value": "rqbUAI4JfxceQRBMDrxCdw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b774" } ,
+        "business_id": { "type": "literal" , "value": "2gvoAtRTMVZ8k3uHRcSs3A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b775" } ,
+        "business_id": { "type": "literal" , "value": "uaT7vmsvl_aPwpXJQ1-ktg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b776" } ,
+        "business_id": { "type": "literal" , "value": "0wEUoqCr_b5lK0HherdLdA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b777" } ,
+        "business_id": { "type": "literal" , "value": "Wb-S3JBo1ulOiDFv6t9YWg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b778" } ,
+        "business_id": { "type": "literal" , "value": "J8Ha6yIvGoU-E31jnCq7Ew" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b779" } ,
+        "business_id": { "type": "literal" , "value": "lhNscRIch7GDNb1GrkevQg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b780" } ,
+        "business_id": { "type": "literal" , "value": "dd3moZV5D516pE9TcQnHsA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b781" } ,
+        "business_id": { "type": "literal" , "value": "ENxpXymBT9z6l_S2mQ-4Sg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b782" } ,
+        "business_id": { "type": "literal" , "value": "TENP2WtH8wrTVLdsnbT8rA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b783" } ,
+        "business_id": { "type": "literal" , "value": "NvBc8lsI93ugziZGC_8n6g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b784" } ,
+        "business_id": { "type": "literal" , "value": "zbiw2QzjuZHWOzVknn7v0A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b785" } ,
+        "business_id": { "type": "literal" , "value": "OwYx-mYJ0lYIFVaH9LH5gw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b786" } ,
+        "business_id": { "type": "literal" , "value": "qyFCNwzvqaZsLa-FFVXNbQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b787" } ,
+        "business_id": { "type": "literal" , "value": "DB9WSaFVPP7kNwBwnq8fTw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b788" } ,
+        "business_id": { "type": "literal" , "value": "W4S9PIWTfRlW2lwPPunFvg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b789" } ,
+        "business_id": { "type": "literal" , "value": "jV0T4_7DQQKeP3Punc_CvQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b790" } ,
+        "business_id": { "type": "literal" , "value": "VsRQhVd7UH7P55LnzvkWJQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b791" } ,
+        "business_id": { "type": "literal" , "value": "TwXlumHJTdCUjhEiuQkmeg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b792" } ,
+        "business_id": { "type": "literal" , "value": "Y-EWvChPHeyvuFTTJRj4DQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b793" } ,
+        "business_id": { "type": "literal" , "value": "Y3B4Z0ht71qfAHiOJQGgaQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b794" } ,
+        "business_id": { "type": "literal" , "value": "EQFfoBj04hYc0ijEyvqgWw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b795" } ,
+        "business_id": { "type": "literal" , "value": "Fu0iAuNKsmjkmH1uJsjeHA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b796" } ,
+        "business_id": { "type": "literal" , "value": "uIF4vUMvkx9sF5ctWBXZkA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b797" } ,
+        "business_id": { "type": "literal" , "value": "Yqn8UHRl-rGW9b9usi2c7A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b798" } ,
+        "business_id": { "type": "literal" , "value": "88E3tledIB6NxIWnfi0XTg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b799" } ,
+        "business_id": { "type": "literal" , "value": "8DopBNIp7wrunbYnG8Exqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b800" } ,
+        "business_id": { "type": "literal" , "value": "Bgu07f3PSSzwl0dhG_Ms4A" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b801" } ,
+        "business_id": { "type": "literal" , "value": "zZIWHmITwqaC8OhnPkjEIQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b802" } ,
+        "business_id": { "type": "literal" , "value": "JRft8-DY1J2v8pNkYGxCKQ" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b803" } ,
+        "business_id": { "type": "literal" , "value": "pUbNMeo4981cibJcHpE66g" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b804" } ,
+        "business_id": { "type": "literal" , "value": "EzXlnsWtBuRJw8avEMfBqw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b805" } ,
+        "business_id": { "type": "literal" , "value": "1SH2qr1wnvDTMSn2do6Yjw" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b806" } ,
+        "business_id": { "type": "literal" , "value": "klSacu5BqdqzLuTz7bmteA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b807" } ,
+        "business_id": { "type": "literal" , "value": "C3EKeB7Qy3aqUahzhgT4fA" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b808" } ,
+        "business_id": { "type": "literal" , "value": "s76i6FIF1aWKwmJZvHS9Dg" }
+      } ,
+      { 
+        "s": { "type": "bnode" , "value": "b809" } ,
+        "business_id": { "type": "literal" , "value": "7PH6BaZkNvpTaF5fgY1lRw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b810" } ,
+        "r_business_id": { "type": "literal" , "value": "buF9druCkbuXLX526sGELQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b811" } ,
+        "r_business_id": { "type": "literal" , "value": "RA4V8pr014UyUbDvI-LW2A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b812" } ,
+        "r_business_id": { "type": "literal" , "value": "_sS2LBIGNT5NQb6PD1Vtjw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b813" } ,
+        "r_business_id": { "type": "literal" , "value": "0AzLzHfOJgL7ROwhdww2ew" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b814" } ,
+        "r_business_id": { "type": "literal" , "value": "8zehGz9jnxPqXtOc7KaJxA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b815" } ,
+        "r_business_id": { "type": "literal" , "value": "xGXzsc-hzam-VArK6eTvtw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b816" } ,
+        "r_business_id": { "type": "literal" , "value": "EXOsmAB1s71WePlQk0WZrA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b817" } ,
+        "r_business_id": { "type": "literal" , "value": "DbXHNl890xSXNiyRczLWAg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b818" } ,
+        "r_business_id": { "type": "literal" , "value": "mD-A9KOWADXvfrZfwDs-jw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b819" } ,
+        "r_business_id": { "type": "literal" , "value": "EEHhKSxUvJkoPSzeGKkpVg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b820" } ,
+        "r_business_id": { "type": "literal" , "value": "WQFn1A7-UAA4JT5YWiop_w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b821" } ,
+        "r_business_id": { "type": "literal" , "value": "iZxfWlfNPXV_0S1xO8QNSQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b822" } ,
+        "r_business_id": { "type": "literal" , "value": "TA1KUSCu8GkWP9w0rmElxw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b823" } ,
+        "r_business_id": { "type": "literal" , "value": "wZgUAuDuEGPEzKK-PsngKQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b824" } ,
+        "r_business_id": { "type": "literal" , "value": "mw_qxZJraNu7Q6u0GkcMew" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b825" } ,
+        "r_business_id": { "type": "literal" , "value": "gGvNgShksetPoimyKV8I9Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b826" } ,
+        "r_business_id": { "type": "literal" , "value": "6Hm2FmfLcU_M91TrZI5htA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b827" } ,
+        "r_business_id": { "type": "literal" , "value": "KXCXaF5qimmtKKqnPc_LQA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b828" } ,
+        "r_business_id": { "type": "literal" , "value": "zmZ3HkVCeZPBefJJxzdJ7A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b829" } ,
+        "r_business_id": { "type": "literal" , "value": "ZW7aI5FO_3q_vSzI4_zx-Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b830" } ,
+        "r_business_id": { "type": "literal" , "value": "mOnesB4IF9j6-ZmHoOHOig" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b831" } ,
+        "r_business_id": { "type": "literal" , "value": "MJYb0fioM-X7jc_0RIYyqQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b832" } ,
+        "r_business_id": { "type": "literal" , "value": "jMz_y_-cWMfiZF7Q5snE6Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b833" } ,
+        "r_business_id": { "type": "literal" , "value": "I2OblwJG8_XzFxxoHU0vVQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b834" } ,
+        "r_business_id": { "type": "literal" , "value": "WDGeeyeK7bG0cvq_ZglAdA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b835" } ,
+        "r_business_id": { "type": "literal" , "value": "ISBs1ARjIFCXGWqPmGSMog" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b836" } ,
+        "r_business_id": { "type": "literal" , "value": "_gOz7-aHMyGUHOtjDrEv2w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b837" } ,
+        "r_business_id": { "type": "literal" , "value": "AW_dMex_BXFzgBJFxAjDuQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b838" } ,
+        "r_business_id": { "type": "literal" , "value": "tiKV9b0b2kpaGm5a-nd1ig" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b839" } ,
+        "r_business_id": { "type": "literal" , "value": "I-qL4zwr62710OJBtVv28A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b840" } ,
+        "r_business_id": { "type": "literal" , "value": "-_GnwXmzC3DXsHR9nyaC2g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b841" } ,
+        "r_business_id": { "type": "literal" , "value": "CF2k7avLtV246iJwp16J7Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b842" } ,
+        "r_business_id": { "type": "literal" , "value": "Qydynzc1ApxsSkVNEgPs9A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b843" } ,
+        "r_business_id": { "type": "literal" , "value": "dWBKYjQ3q2v2dOjsfLLxDg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b844" } ,
+        "r_business_id": { "type": "literal" , "value": "IdXHHEUH4ebcxdRxCo3JNw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b845" } ,
+        "r_business_id": { "type": "literal" , "value": "luOZQ9YBrWwP8mYrS4rNoA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b846" } ,
+        "r_business_id": { "type": "literal" , "value": "p2BkIrOuIsxGqtV0lwOZUw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b847" } ,
+        "r_business_id": { "type": "literal" , "value": "AvXqLbcGCxdIEF_qZTY0Kw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b848" } ,
+        "r_business_id": { "type": "literal" , "value": "xPo2OA5_wQgUEzAr-1o1Lg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b849" } ,
+        "r_business_id": { "type": "literal" , "value": "vRrDTIW9IFBO4cc3laazUw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b850" } ,
+        "r_business_id": { "type": "literal" , "value": "M4jkJHewQXZvDV34Tuon8g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b851" } ,
+        "r_business_id": { "type": "literal" , "value": "WtDOs3a6k_oPJmwiDh4qBQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b852" } ,
+        "r_business_id": { "type": "literal" , "value": "H_RM2u1WWGU1HkKZrYq2Ow" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b853" } ,
+        "r_business_id": { "type": "literal" , "value": "zWp3VbtS1p6PEdOxImpL1A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b854" } ,
+        "r_business_id": { "type": "literal" , "value": "Ld88I1LFRlxnFlQVIoHAJw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b855" } ,
+        "r_business_id": { "type": "literal" , "value": "H_RM2u1WWGU1HkKZrYq2Ow" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b856" } ,
+        "r_business_id": { "type": "literal" , "value": "EuiU19EjhybpGLXqBzntgw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b857" } ,
+        "r_business_id": { "type": "literal" , "value": "VPqWLp9kMiZEbctCebIZUA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b858" } ,
+        "r_business_id": { "type": "literal" , "value": "J7KvI94QUxab29LLeG6bew" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b859" } ,
+        "r_business_id": { "type": "literal" , "value": "9P-lp3AWDXGayDqJz9VPwQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b860" } ,
+        "r_business_id": { "type": "literal" , "value": "PYDzfxSLUCCwQysbOkFSVA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b861" } ,
+        "r_business_id": { "type": "literal" , "value": "g3pXGPRKYd_WQxLT2IFPxQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b862" } ,
+        "r_business_id": { "type": "literal" , "value": "LAhRM37ofCq5f4nCM20aCA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b863" } ,
+        "r_business_id": { "type": "literal" , "value": "8zehGz9jnxPqXtOc7KaJxA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b864" } ,
+        "r_business_id": { "type": "literal" , "value": "jdAHMkNHejuvOk9vE6wGWA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b865" } ,
+        "r_business_id": { "type": "literal" , "value": "bZiIIUcpgxh8mpKMDhdqbA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b866" } ,
+        "r_business_id": { "type": "literal" , "value": "0nMbLN0B5I-2tNnQLSo86w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b867" } ,
+        "r_business_id": { "type": "literal" , "value": "wVlxPWwFL-MrzCXim-UfWg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b868" } ,
+        "r_business_id": { "type": "literal" , "value": "ZX6v0viDJtr_fP7Mt3Gczg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b869" } ,
+        "r_business_id": { "type": "literal" , "value": "avhO2gx4ensf6Su6ld9d5g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b870" } ,
+        "r_business_id": { "type": "literal" , "value": "0TU09h0pr6Jfd2VBorDAbw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b871" } ,
+        "r_business_id": { "type": "literal" , "value": "ARDNlZlbB1c3F-Qvk3lJXQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b872" } ,
+        "r_business_id": { "type": "literal" , "value": "JO4tK5oH6ncQ5m_MqkwxVQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b873" } ,
+        "r_business_id": { "type": "literal" , "value": "HUEZLPIM64cDZnfHE1H3AA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b874" } ,
+        "r_business_id": { "type": "literal" , "value": "r1vkjKMksmHhE9SjvSAdaw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b875" } ,
+        "r_business_id": { "type": "literal" , "value": "SNn6O_vN8EtR-UFYtzYZ-Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b876" } ,
+        "r_business_id": { "type": "literal" , "value": "n66LuZ8NooZIcAfYvI4s5A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b877" } ,
+        "r_business_id": { "type": "literal" , "value": "Un6u2cECyV4nZb_HGZ-uTA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b878" } ,
+        "r_business_id": { "type": "literal" , "value": "gvpoFnaCq2J7TBXV7yFIkQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b879" } ,
+        "r_business_id": { "type": "literal" , "value": "Y6xGZZIQEtwjCkVHL-_GRg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b880" } ,
+        "r_business_id": { "type": "literal" , "value": "UAtX7xmIfdd1W2Pebf6NWg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b881" } ,
+        "r_business_id": { "type": "literal" , "value": "g4CP3kgH1jTtMn-joxPT0A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b882" } ,
+        "r_business_id": { "type": "literal" , "value": "sR_BWNRynuuM78YU2GS_fQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b883" } ,
+        "r_business_id": { "type": "literal" , "value": "05pmc_4J0TxoZrft1QxmJg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b884" } ,
+        "r_business_id": { "type": "literal" , "value": "jhFi0oxdyiyCYK7i-CW59A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b885" } ,
+        "r_business_id": { "type": "literal" , "value": "oaaeZ4BvMR9pHXYb5USEEQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b886" } ,
+        "r_business_id": { "type": "literal" , "value": "v5M1mNsDCQF0vLsRCMD0kQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b887" } ,
+        "r_business_id": { "type": "literal" , "value": "ll5v-nUVgMsTMUC-MBGRFQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b888" } ,
+        "r_business_id": { "type": "literal" , "value": "0WqROvvlHjvpeHIP0fg9EQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b889" } ,
+        "r_business_id": { "type": "literal" , "value": "Xak7y2IYtKJlUEzEsac9vA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b890" } ,
+        "r_business_id": { "type": "literal" , "value": "0BGoel6on7yGvojzOqOEAQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b891" } ,
+        "r_business_id": { "type": "literal" , "value": "-uzBQmCH8nqXGhBJJ7_npg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b892" } ,
+        "r_business_id": { "type": "literal" , "value": "LUCmOKTK5Uh7eU84yJq3mQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b893" } ,
+        "r_business_id": { "type": "literal" , "value": "VWuI68p6Ao_ENKaCGRazLA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b894" } ,
+        "r_business_id": { "type": "literal" , "value": "FQsIpsHVYuvE8jH5jrE5Lw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b895" } ,
+        "r_business_id": { "type": "literal" , "value": "5lPqYrIthr9cv_LQHrffkQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b896" } ,
+        "r_business_id": { "type": "literal" , "value": "CoZmZKv2lCYd-UoAsAUobA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b897" } ,
+        "r_business_id": { "type": "literal" , "value": "t2xsi7qIN0iwGiOyCn7k8Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b898" } ,
+        "r_business_id": { "type": "literal" , "value": "6bSQFg8lPXnonUYh9tphdw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b899" } ,
+        "r_business_id": { "type": "literal" , "value": "wQTv2-JPA_T0osFwwefCYA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b900" } ,
+        "r_business_id": { "type": "literal" , "value": "-L69Ix0-xX4BlHA61fGvrQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b901" } ,
+        "r_business_id": { "type": "literal" , "value": "EmJOkTKIwgm7QJbls7hN3w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b902" } ,
+        "r_business_id": { "type": "literal" , "value": "JCgLWYjoPJlznzFEtnzqKg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b903" } ,
+        "r_business_id": { "type": "literal" , "value": "xdpH27x6qGSG21LLa6TaXQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b904" } ,
+        "r_business_id": { "type": "literal" , "value": "4cgE4DUDSH3CjqsRwX_LOA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b905" } ,
+        "r_business_id": { "type": "literal" , "value": "DMC9ZMkDHNQmlhdPDmz-Cw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b906" } ,
+        "r_business_id": { "type": "literal" , "value": "GDs0ymtRPWWHlUMBfNT5yg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b907" } ,
+        "r_business_id": { "type": "literal" , "value": "kvXWN5kB7CEzmMCf557Xug" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b908" } ,
+        "r_business_id": { "type": "literal" , "value": "G61xj19TPnbzB7oQuoWTgQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b909" } ,
+        "r_business_id": { "type": "literal" , "value": "Je42YeoIWbMUQphd-UsKLA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b910" } ,
+        "r_business_id": { "type": "literal" , "value": "xTUmHvDbHDTwEl9w_f667w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b911" } ,
+        "r_business_id": { "type": "literal" , "value": "eUbq0uNxRlXQ6sy7phM7yA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b912" } ,
+        "r_business_id": { "type": "literal" , "value": "xdTsreID2XEhm8XlXcgtVQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b913" } ,
+        "r_business_id": { "type": "literal" , "value": "jhFi0oxdyiyCYK7i-CW59A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b914" } ,
+        "r_business_id": { "type": "literal" , "value": "75ptvXSg7abUSN_D82O-qw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b915" } ,
+        "r_business_id": { "type": "literal" , "value": "PrWSjn4a8o4dHoqKs53GBA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b916" } ,
+        "r_business_id": { "type": "literal" , "value": "LGZimmjxbfGwBHgPZCx5cQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b917" } ,
+        "r_business_id": { "type": "literal" , "value": "75HV-KqCtn_oHeiLiGlO_w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b918" } ,
+        "r_business_id": { "type": "literal" , "value": "aoZ-M3cVjBKpZAxRkaXi_Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b919" } ,
+        "r_business_id": { "type": "literal" , "value": "MH15A8iP8JSQRTXvYfqi8w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b920" } ,
+        "r_business_id": { "type": "literal" , "value": "hrvQyPfec2YqNk9ZknlYig" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b921" } ,
+        "r_business_id": { "type": "literal" , "value": "gHvqhb6TjIupKZyot0DIgA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b922" } ,
+        "r_business_id": { "type": "literal" , "value": "4mmKcjlUWF3NTjtgrmBMFQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b923" } ,
+        "r_business_id": { "type": "literal" , "value": "vV5ciKb5sDKVmF8mAoz1iA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b924" } ,
+        "r_business_id": { "type": "literal" , "value": "X9sz3xeaLujW9PhsSLCQyg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b925" } ,
+        "r_business_id": { "type": "literal" , "value": "JgjMHbZ4A407ZOmvEEoa6g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b926" } ,
+        "r_business_id": { "type": "literal" , "value": "y6Cyi8nSkqCWxZoKoU2Agw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b927" } ,
+        "r_business_id": { "type": "literal" , "value": "1BvysshfkDS2eJ0k8XiDjQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b928" } ,
+        "r_business_id": { "type": "literal" , "value": "F7xXy4c9pCSQYVG_QxeBSw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b929" } ,
+        "r_business_id": { "type": "literal" , "value": "Agq4zoNLSIpT1_ZJbnrvww" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b930" } ,
+        "r_business_id": { "type": "literal" , "value": "I7atR1yTJMOgSoZLXLtCWA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b931" } ,
+        "r_business_id": { "type": "literal" , "value": "DiRIdYhGyuTNZurKyuWf7A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b932" } ,
+        "r_business_id": { "type": "literal" , "value": "J8Ha6yIvGoU-E31jnCq7Ew" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b933" } ,
+        "r_business_id": { "type": "literal" , "value": "jGennaZUr2MsJyRhijNBfA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b934" } ,
+        "r_business_id": { "type": "literal" , "value": "YZs1gNSh_sN8JmN_nrpxeA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b935" } ,
+        "r_business_id": { "type": "literal" , "value": "72PQGMhrEcIuWH-S44TprA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b936" } ,
+        "r_business_id": { "type": "literal" , "value": "_QUh5vFHSuw8R_uiFZ7XKQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b937" } ,
+        "r_business_id": { "type": "literal" , "value": "6WHkk0um6lc0N8EOyTvhEw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b938" } ,
+        "r_business_id": { "type": "literal" , "value": "qbpJFE-XlspCCk3PWhZ0AA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b939" } ,
+        "r_business_id": { "type": "literal" , "value": "C--wIpxJ4j1y01G_raHdbA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b940" } ,
+        "r_business_id": { "type": "literal" , "value": "lq0rcFfgZJfzo9UD8bjDuA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b941" } ,
+        "r_business_id": { "type": "literal" , "value": "V16Mua3SnXLt95N4EEolTw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b942" } ,
+        "r_business_id": { "type": "literal" , "value": "vS6_3-vp3vxYcxSTir9GYw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b943" } ,
+        "r_business_id": { "type": "literal" , "value": "paHbKmPjwirnIP7esoTPCQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b944" } ,
+        "r_business_id": { "type": "literal" , "value": "2ILe62hVJfiZEOcKxFYKDA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b945" } ,
+        "r_business_id": { "type": "literal" , "value": "VPqWLp9kMiZEbctCebIZUA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b946" } ,
+        "r_business_id": { "type": "literal" , "value": "OlB0841vj4V7Wje5tTtLWA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b947" } ,
+        "r_business_id": { "type": "literal" , "value": "hpz2qRnei2IJROLJUJVvPQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b948" } ,
+        "r_business_id": { "type": "literal" , "value": "H_RM2u1WWGU1HkKZrYq2Ow" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b949" } ,
+        "r_business_id": { "type": "literal" , "value": "fIA6vAsSGHxHDU8k0djIrg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b950" } ,
+        "r_business_id": { "type": "literal" , "value": "zg9p8ZBFmEUCtfcBHNvzvg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b951" } ,
+        "r_business_id": { "type": "literal" , "value": "SCwzUgW_RUdahXNObknkTg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b952" } ,
+        "r_business_id": { "type": "literal" , "value": "ZKT4K5aAhE3KC6xPG0phYw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b953" } ,
+        "r_business_id": { "type": "literal" , "value": "0yl8_iGgj2wNCT43-7WPZA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b954" } ,
+        "r_business_id": { "type": "literal" , "value": "ch1ercqwoNLpQLxpTb90KQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b955" } ,
+        "r_business_id": { "type": "literal" , "value": "G-mqbRnV9rX5Nf2NK4tJRA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b956" } ,
+        "r_business_id": { "type": "literal" , "value": "_jYt69Zx1SUo_V9z0m7Ljg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b957" } ,
+        "r_business_id": { "type": "literal" , "value": "a-EQKCGPirfEd33MkbD4ug" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b958" } ,
+        "r_business_id": { "type": "literal" , "value": "QfhNSjJ7fXERSRp5FkEnVw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b959" } ,
+        "r_business_id": { "type": "literal" , "value": "H_RM2u1WWGU1HkKZrYq2Ow" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b960" } ,
+        "r_business_id": { "type": "literal" , "value": "JhSoyaXFf9xUfvow263gug" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b961" } ,
+        "r_business_id": { "type": "literal" , "value": "AFhbVnKpqV4CZYkM3hfEIQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b962" } ,
+        "r_business_id": { "type": "literal" , "value": "SH4c_oijp86ooTJmLvx6SQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b963" } ,
+        "r_business_id": { "type": "literal" , "value": "ezX80RabJ62B2lbKXCtg3g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b964" } ,
+        "r_business_id": { "type": "literal" , "value": "vKHj8egEtB0WqYy7RNZrqw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b965" } ,
+        "r_business_id": { "type": "literal" , "value": "3ZVgig7uux9jVtEZna5NgA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b966" } ,
+        "r_business_id": { "type": "literal" , "value": "WwLZgm2Yw0n9AEo05sa3tQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b967" } ,
+        "r_business_id": { "type": "literal" , "value": "k4zJfURHmAWRMECfGS5fxQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b968" } ,
+        "r_business_id": { "type": "literal" , "value": "qWOE4Cxlxm3hSwykOcOpjA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b969" } ,
+        "r_business_id": { "type": "literal" , "value": "Oj5Seggqo_2FfKSjcAg7yw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b970" } ,
+        "r_business_id": { "type": "literal" , "value": "2hPkrbzphCtP_e2neIyBPg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b971" } ,
+        "r_business_id": { "type": "literal" , "value": "DSkmkEUvpVICLd1mjppk5g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b972" } ,
+        "r_business_id": { "type": "literal" , "value": "VvmKYyGo4CDQ3rr9KMc4jg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b973" } ,
+        "r_business_id": { "type": "literal" , "value": "SwafLjsIK8X4F6md2n6PRw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b974" } ,
+        "r_business_id": { "type": "literal" , "value": "tbR3eFhZ9rr06tJDvO2pjw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b975" } ,
+        "r_business_id": { "type": "literal" , "value": "8gkn6ZKsxdbX2CRZ33UTcQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b976" } ,
+        "r_business_id": { "type": "literal" , "value": "TA1KUSCu8GkWP9w0rmElxw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b977" } ,
+        "r_business_id": { "type": "literal" , "value": "N9f8XoP3Q019I2ph6-_aLA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b978" } ,
+        "r_business_id": { "type": "literal" , "value": "MvuzZyWA0BOFv6QtaTEwqw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b979" } ,
+        "r_business_id": { "type": "literal" , "value": "uyW6OtCjZmPzYiAvPw60cA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b980" } ,
+        "r_business_id": { "type": "literal" , "value": "8e-xCj4xWGoYknADpovxVQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b981" } ,
+        "r_business_id": { "type": "literal" , "value": "TnRcGRybKUR5phkN7Es3jQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b982" } ,
+        "r_business_id": { "type": "literal" , "value": "IbuSlumTCNSD-ohMVHfWUA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b983" } ,
+        "r_business_id": { "type": "literal" , "value": "bZiIIUcpgxh8mpKMDhdqbA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b984" } ,
+        "r_business_id": { "type": "literal" , "value": "0Ng-wDNyA-96uaJZP8EKZg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b985" } ,
+        "r_business_id": { "type": "literal" , "value": "VzBw4yBOaPc_Zniovd37yQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b986" } ,
+        "r_business_id": { "type": "literal" , "value": "HjZBIkAliR8CgCT9G_g2KA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b987" } ,
+        "r_business_id": { "type": "literal" , "value": "vRrDTIW9IFBO4cc3laazUw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b988" } ,
+        "r_business_id": { "type": "literal" , "value": "nzyu4lcjIOH_zPMlaPbmrw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b989" } ,
+        "r_business_id": { "type": "literal" , "value": "8feSeua4AjWADriNROnUpw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b990" } ,
+        "r_business_id": { "type": "literal" , "value": "N9f8XoP3Q019I2ph6-_aLA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b991" } ,
+        "r_business_id": { "type": "literal" , "value": "YES12b8B0afEx-SWv-o1nw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b992" } ,
+        "r_business_id": { "type": "literal" , "value": "mJyvX1Hg9fsrBUgs6gfrig" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b993" } ,
+        "r_business_id": { "type": "literal" , "value": "IYyYpXSsD41g14_z-Zdtiw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b994" } ,
+        "r_business_id": { "type": "literal" , "value": "nVM8SLX5Yp3E6NNmL7tAPQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b995" } ,
+        "r_business_id": { "type": "literal" , "value": "i9BDFBYcl_PGqrLbQUdMvg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b996" } ,
+        "r_business_id": { "type": "literal" , "value": "JBFzDz96PxzZIdB89T7ipQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b997" } ,
+        "r_business_id": { "type": "literal" , "value": "6GczIaxfVePcP1ztujRisw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b998" } ,
+        "r_business_id": { "type": "literal" , "value": "ufZddj_Wo51i7WKGKORl_g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b999" } ,
+        "r_business_id": { "type": "literal" , "value": "cC2U-mBeWYOYfvt662aGYA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1000" } ,
+        "r_business_id": { "type": "literal" , "value": "GHuliK23HiSurTLi2GnJ4g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1001" } ,
+        "r_business_id": { "type": "literal" , "value": "HvqNINVvpCc7h3Gf8YnecA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1002" } ,
+        "r_business_id": { "type": "literal" , "value": "AIg-IBSPAkg015_C7nvIdA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1003" } ,
+        "r_business_id": { "type": "literal" , "value": "oz882XuZCxajKo64Opgq_Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1004" } ,
+        "r_business_id": { "type": "literal" , "value": "C2-TNtNc___1tkYAmPgmWQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1005" } ,
+        "r_business_id": { "type": "literal" , "value": "sAdkyll7l2eFgb3EGPm58A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1006" } ,
+        "r_business_id": { "type": "literal" , "value": "bPmWDBkjBhV11Yk4BipG4Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1007" } ,
+        "r_business_id": { "type": "literal" , "value": "VWuI68p6Ao_ENKaCGRazLA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1008" } ,
+        "r_business_id": { "type": "literal" , "value": "H61GvE_VbTXtQbEgTPLchg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1009" } ,
+        "r_business_id": { "type": "literal" , "value": "gr8vTH6FhwQ1AO06W4t59g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1010" } ,
+        "r_business_id": { "type": "literal" , "value": "j9-xoRo9U2ugRXJjWdmXmQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1011" } ,
+        "r_business_id": { "type": "literal" , "value": "ZLd5EDQkSnAPX8eMRwEsHQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1012" } ,
+        "r_business_id": { "type": "literal" , "value": "Yw1vQd5U5GB6ZPqn2buhBg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1013" } ,
+        "r_business_id": { "type": "literal" , "value": "aM-FPdJicti_TzymjW3Usg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1014" } ,
+        "r_business_id": { "type": "literal" , "value": "w_MxXl29Pnpc94EU6S39cg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1015" } ,
+        "r_business_id": { "type": "literal" , "value": "DiRIdYhGyuTNZurKyuWf7A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1016" } ,
+        "r_business_id": { "type": "literal" , "value": "9O5wLi4lUoa5GRP5BaAuVQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1017" } ,
+        "r_business_id": { "type": "literal" , "value": "-TOfMl4hLjH1iOQStV1opw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1018" } ,
+        "r_business_id": { "type": "literal" , "value": "La_xmePMtWwjxKUqbGvqGQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1019" } ,
+        "r_business_id": { "type": "literal" , "value": "oz882XuZCxajKo64Opgq_Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1020" } ,
+        "r_business_id": { "type": "literal" , "value": "72PQGMhrEcIuWH-S44TprA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1021" } ,
+        "r_business_id": { "type": "literal" , "value": "J1uidHIL7nE_noUuvFXj0A" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1022" } ,
+        "r_business_id": { "type": "literal" , "value": "Pkp824mx2LL93TqKOdfMyQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1023" } ,
+        "r_business_id": { "type": "literal" , "value": "KuOz1G9q38lHKQLnqsZW_Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1024" } ,
+        "r_business_id": { "type": "literal" , "value": "rbGjumv1jiCJ6FN3rPpciA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1025" } ,
+        "r_business_id": { "type": "literal" , "value": "9JtY3GKP0QJhYzsEzFugOg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1026" } ,
+        "r_business_id": { "type": "literal" , "value": "7ee6XyKyeduI-Rbc6L5j2Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1027" } ,
+        "r_business_id": { "type": "literal" , "value": "HxegWRjhi7m73mXRI8qQIg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1028" } ,
+        "r_business_id": { "type": "literal" , "value": "-IIvmjoEKa9Trhf4OxzJeA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1029" } ,
+        "r_business_id": { "type": "literal" , "value": "W4BJPLCjghJy3_wXjUtQLQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1030" } ,
+        "r_business_id": { "type": "literal" , "value": "VRwq4hgdoR9YZOfNIXd4Ow" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1031" } ,
+        "r_business_id": { "type": "literal" , "value": "vQNe7TD_QDpGtGbkaAqi8Q" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1032" } ,
+        "r_business_id": { "type": "literal" , "value": "-kXshDNDij_QARV4wR4EjQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1033" } ,
+        "r_business_id": { "type": "literal" , "value": "cVACy3wFAHpjnK2Yi5Y9NQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1034" } ,
+        "r_business_id": { "type": "literal" , "value": "-OmEmU8sds0dcsDDSoce-g" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1035" } ,
+        "r_business_id": { "type": "literal" , "value": "aKLaNeoteS7aofO9id53Wg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1036" } ,
+        "r_business_id": { "type": "literal" , "value": "ztlyPlnY5rEh3dM6-kN8BQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1037" } ,
+        "r_business_id": { "type": "literal" , "value": "1diwr6ycCvtBXR5vmnmNGg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1038" } ,
+        "r_business_id": { "type": "literal" , "value": "ItZXR8qp_WC_v9zuSQGS9w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1039" } ,
+        "r_business_id": { "type": "literal" , "value": "-oCYfB-JL3Yc_RECg4B1Qw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1040" } ,
+        "r_business_id": { "type": "literal" , "value": "Z4CPbD4a-cR4JR8CH_c3PQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1041" } ,
+        "r_business_id": { "type": "literal" , "value": "ch1ercqwoNLpQLxpTb90KQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1042" } ,
+        "r_business_id": { "type": "literal" , "value": "q14kE_FYocXv9L4EEYzrzA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1043" } ,
+        "r_business_id": { "type": "literal" , "value": "GobfrBZcaDBtCM8P94NpOw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1044" } ,
+        "r_business_id": { "type": "literal" , "value": "8gkn6ZKsxdbX2CRZ33UTcQ" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1045" } ,
+        "r_business_id": { "type": "literal" , "value": "RDuPefU1ZBP6OyolshXvGw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1046" } ,
+        "r_business_id": { "type": "literal" , "value": "I_ft5lRPr37Rvpjgp-APDw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1047" } ,
+        "r_business_id": { "type": "literal" , "value": "Pisoftb2bzA6OkqwppOTTA" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1048" } ,
+        "r_business_id": { "type": "literal" , "value": "A5A8dP2q7_j1_jmKDjDz6w" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1049" } ,
+        "r_business_id": { "type": "literal" , "value": "FYQHebkSHB0DE3xbn3f7Yg" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1050" } ,
+        "r_business_id": { "type": "literal" , "value": "QsBKnLp420eDQF3bgYUDRw" }
+      } ,
+      { 
+        "r": { "type": "bnode" , "value": "b1051" } ,
+        "r_business_id": { "type": "literal" , "value": "FQALxQa69loeORgzbIBBmw" }
+      }
+    ]
+  }
+}

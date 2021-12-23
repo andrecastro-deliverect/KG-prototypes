@@ -1,0 +1,30 @@
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yelp/sparql>
+    { 
+        SELECT ?user_id #?b ?b_name ?b_id ?review_id ?user_id
+        WHERE {
+                {
+                    # ?b a <https://myontology.com#business>;
+                    # <https://myontology.com#name> ?b_name ;
+                    # <https://myontology.com#business_id> ?b_id .
+
+                    # ?r a <https://myontology.com#review>;
+                    # <https://myontology.com#business_id> ?b_id ;
+                    # <https://myontology.com#user_id> ?user_id ;
+                    # <https://myontology.com#review_id> ?review_id .
+
+                    ?r a <https://myontology.com#review>;
+                    # <https://myontology.com#business_id> ?b_id ;
+                    <https://myontology.com#user_id> ?user_id ;
+                    # <https://myontology.com#review_id> ?review_id .                    
+                }       
+        }
+        GROUP BY ?user_id
+        having (count(?user_id) > 0)
+                # ORDER BY ?user_id
+    }
+}
+# what are the businesses with reviews?
+# and what other business did those users review

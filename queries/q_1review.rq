@@ -1,0 +1,18 @@
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yelp/sparql>
+    { 
+        SELECT * 
+        {
+            ?r a <https://myontology.com#review> ;
+            <https://myontology.com#review_id> "CuXWfJvlxOAqJvqqAsHvGQ" .
+            ?r ?p ?v        
+        }
+    }
+}
+
+# ---------------------------------------------------------------------------------------------------------
+# | s     | name                            | business_id              | r     | review_id                |
+# =========================================================================================================
+# | _:b0  | "Legal Sea Foods"               | "jGennaZUr2MsJyRhijNBfA" | _:b1  | "CuXWfJvlxOAqJvqqAsHvGQ" |
