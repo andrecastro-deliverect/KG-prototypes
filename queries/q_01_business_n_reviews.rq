@@ -1,22 +1,31 @@
+# what are the businesses with reviews?
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
 SELECT *
 WHERE 
 {
-    SERVICE <http://192.168.60.113/jena/fuseki/yelp/sparql>
+    SERVICE <http://192.168.60.113/jena/fuseki/yeld_b_r/sparql>
     { 
-        SELECT ?b ?b_name ?b_id ?review_id ?user_id
+        SELECT ?user_id ?review_date ?b_id ?b_id2 ?b_name ?r_stars# ?b_id ?review_id ?user_id
         WHERE {
                 {
-                    ?b a <https://myontology.com#business>;
-                    <https://myontology.com#name> ?b_name ;
-                    <https://myontology.com#business_id> ?b_id .
-
                     ?r a <https://myontology.com#review>;
-                    <https://myontology.com#business_id> ?b_id ;
+                    # <https://myontology.com#business_id> ?b_id ;
                     <https://myontology.com#user_id> ?user_id ;
-                    <https://myontology.com#review_id> ?review_id .
+                    <https://myontology.com#review_id> ?review_id ;
+                    <https://myontology.com#date> ?review_date ;
+                    <https://myontology.com#stars> ?review_stars ;
+                    <https://myontology.com#business_id> ?b_id .                    
                 }
-       
+                {
+                   ?b a <https://myontology.com#business>;
+                      <https://myontology.com#business_id> ?b_id;
+                      <https://myontology.com#business_id> ?b_id2;
+                      <https://myontology.com#name> ?b_name
+                       .                    
+
+                }
+                BIND (xsd:string(?review_stars) AS ?r_stars)
         }
     }
 }
-# what are the businesses with reviews?
