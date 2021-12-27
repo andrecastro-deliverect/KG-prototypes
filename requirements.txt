@@ -1,2 +1,4 @@
 rdflib
 requests
+SPARQLWrapper
+jupyter

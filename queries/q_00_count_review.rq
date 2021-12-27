@@ -1,0 +1,15 @@
+
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yelp_Boston/sparql>
+    { 
+        SELECT (count(?r_id) as ?total)
+        WHERE {
+                {
+                    ?r a <https://myontology.com#review>;
+                    <https://myontology.com#review_id> ?r_id .
+                }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yeld_b_r/sparql>
+    { 
+        SELECT ?b_city ?b_name ?b_id  #?b ?b_name ?b_id ?review_id ?user_id
+        WHERE {
+                {
+                    ?b a <https://myontology.com#business>;
+                    <https://myontology.com#city> ?b_city ;
+                    <https://myontology.com#name> ?b_name ;
+                    <https://myontology.com#business_id> ?b_id ;
+
+
+                }       
+        }
+        # GROUP BY ?b_city
+        # having (count(?b_city) > 100)
+        ORDER BY ?b_city
+    }
+}
+
+# TODO: reviews from restaurants from the same city
+# AVARAGE OF review star
+
+# # Cites with more than 20 businesses
+# ===============
+# | "Columbus"  |
+# | "Portland"  |
+# | "Boston"    |
+# | "Orlando"   |
+# | "Atlanta"   |
+# | "Vancouver" |
+# | "Austin"    |
+# ---------------
+
+# # Cities with more than 100 businesses
+# --------------
+# | b_city     |
+# ==============
+# | "Portland" |
+# | "Austin"   |
+# --------------

@@ -1,0 +1,16 @@
+SELECT *
+WHERE 
+{
+    SERVICE <http://192.168.60.113/jena/fuseki/yelp_Boston/sparql>
+    { 
+        SELECT ?b_id ?city
+        WHERE {
+                {
+                    ?b a <https://myontology.com#business>;
+                    <https://myontology.com#business_id> ?b_id ;
+                    <https://myontology.com#city> ?city .
+                }
+        }
+        ORDER BY ?b_id
+    }
+}

@@ -1,12 +1,9 @@
-# what are the businesses with reviews?
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-
 SELECT *
 WHERE 
 {
-    SERVICE <http://192.168.60.113/jena/fuseki/yelp_Boston/sparql>
+    SERVICE <http://192.168.60.113/jena/fuseki/yeld_b_r/sparql>
     { 
-        SELECT ?user_id ?review_date ?b_id ?b_id2 ?b_name ?r_stars# ?b_id ?review_id ?user_id
+        SELECT ?user_id ?review_date ?b_id ?b_id2 ?b_name # ?b_id ?review_id ?user_id
         WHERE {
                 {
                     ?r a <https://myontology.com#review>;
@@ -14,7 +11,6 @@ WHERE
                     <https://myontology.com#user_id> ?user_id ;
                     <https://myontology.com#review_id> ?review_id ;
                     <https://myontology.com#date> ?review_date ;
-                    <https://myontology.com#stars> ?review_stars ;
                     <https://myontology.com#business_id> ?b_id .                    
                 }
                 {
@@ -25,9 +21,8 @@ WHERE
                        .                    
 
                 }
-                BIND (xsd:string(?review_stars) AS ?r_stars) .
         }
-        ORDER BY ?b_name
-
     }
 }
+# what are the businesses with reviews?
+# and what other business did those users review
